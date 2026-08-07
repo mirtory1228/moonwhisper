@@ -97,7 +97,7 @@ def crescent(img):
 
 def make(slug, fm):
     title=fm.get("title",slug); desc=fm.get("description",""); cat=fm.get("category","")
-    hook, keyword = hook_and_keyword(slug, title, cat)
+    hook, keyword, themes = hook_and_keyword(slug, title, cat)
     img=bg(); d=ImageDraw.Draw(img)
     stars(d, sum(ord(c) for c in slug))
     crescent(img); d=ImageDraw.Draw(img)
@@ -124,6 +124,15 @@ def make(slug, fm):
     tf=SANS(34); tl=wrap(d,desc,tf,W-2*MX)[:4]
     for ln in tl:
         d.text((MX,y),ln,font=tf,fill=DIM); y+=46
+    # "at a glance" theme chips (fills lower third, adds keywords)
+    ly=1030
+    lf=SANS_SB(24); d.text((MX,ly),"INSIDE THE FULL GUIDE",font=lf,fill=FAINT)
+    ly+=52; cx=MX; chf=SANS_SB(30)
+    for th in themes:
+        cw=d.textlength(th,font=chf)
+        d.rounded_rectangle([cx,ly,cx+cw+52,ly+64],32,fill=(255,255,255,0) if False else (24,30,64),outline=JADE,width=2)
+        d.ellipse([cx+22,ly+27,cx+34,ly+39],fill=GOLD_SOFT)
+        d.text((cx+46,ly+16),th,font=chf,fill=TEXT); cx+=cw+52+46+24
     # footer brand + CTA
     fy=H-140
     d.line([MX,fy-30,W-MX,fy-30],fill=(255,255,255,30) if False else (60,68,110),width=1)
