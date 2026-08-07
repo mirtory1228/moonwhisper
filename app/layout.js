@@ -54,6 +54,7 @@ export default function RootLayout({ children }) {
             <Link href="/">Home</Link>
             <Link href="/angel-numbers">Angel Numbers</Link>
             <Link href="/tarot">Tarot Reading</Link>
+            <Link href="/dream-dictionary">Dream Dictionary</Link>
             <Link href="/about">About</Link>
             <Link href="/contact">Contact</Link>
           </nav>

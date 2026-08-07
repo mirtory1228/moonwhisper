@@ -1208,3 +1208,48 @@ a { color: inherit; text-decoration: none; }
   .tarot-fan { height: 270px; margin: 20px auto 44px; }
   .tarot-card { transform-origin: 50% 190px; }
 }
+
+/* ═══ Dream Dictionary search tool ═══ */
+.dream-tool { margin: 6px 0 10px; }
+.dream-search-box {
+  display: flex; align-items: center; gap: 10px; padding: 4px 8px 4px 16px;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 30px;
+  backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
+}
+.dream-search-box:focus-within { border-color: rgba(232,198,107,.6); }
+.dream-search-icon { font-size: 18px; }
+.dream-search-box input { flex: 1; background: transparent; border: 0; outline: none; color: var(--text); font-size: 16.5px; padding: 12px 4px; }
+.dream-search-box input::placeholder { color: var(--text-faint); }
+.dream-clear { background: none; border: 0; color: var(--text-faint); font-size: 24px; cursor: pointer; padding: 0 12px; }
+.dream-clear:hover { color: var(--text); }
+
+.dream-popular, .dream-browse { margin-top: 22px; }
+.dream-popular-label { display: block; font-size: 12.5px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; color: var(--gold-soft); margin-bottom: 12px; }
+.dream-chips { display: flex; flex-wrap: wrap; gap: 9px; }
+.dream-chip {
+  padding: 8px 15px; border-radius: 20px; cursor: pointer; font-size: 14.5px;
+  background: var(--surface); border: 1px solid var(--border); color: var(--text-dim);
+  transition: color .15s, border-color .15s;
+}
+.dream-chip:hover { color: var(--gold-soft); border-color: rgba(232,198,107,.5); }
+
+.dream-browse-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 18px; }
+@media (max-width: 560px) { .dream-browse-grid { grid-template-columns: 1fr; } }
+.dream-browse-link {
+  display: block; padding: 9px 12px; border-radius: 10px; font-size: 14.5px; color: var(--text-dim);
+  background: var(--surface); border: 1px solid var(--border); transition: color .15s, border-color .15s;
+}
+.dream-browse-link:hover { color: var(--gold-soft); border-color: rgba(232,198,107,.5); }
+
+.dream-results { display: flex; flex-direction: column; gap: 12px; margin-top: 20px; }
+.dream-result {
+  display: block; padding: 16px 18px; border-radius: 14px;
+  background: var(--surface); border: 1px solid var(--border);
+  backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
+  transition: border-color .16s, transform .16s;
+}
+.dream-result:hover { border-color: rgba(232,198,107,.55); transform: translateY(-2px); }
+.dr-title { display: block; font-size: 18px; font-weight: 700; color: var(--gold-soft); }
+.dr-snippet { display: block; font-size: 14.5px; color: var(--text-dim); margin: 6px 0 8px; line-height: 1.55; }
+.dr-cta { display: block; font-size: 13.5px; color: var(--jade); font-weight: 600; }
+.dream-empty { color: var(--text-dim); text-align: center; padding: 24px 0; }
