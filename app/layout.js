@@ -6,6 +6,7 @@ import SideDecor from '@/components/SideDecor';
 
 export const metadata = {
   metadataBase: new URL(SITE.url),
+  verification: { google: 'S4hG618OVHI38cFxLM9e5db5ZXA4ZTPTHGEayEZ2eP8' },
   title: { default: `${SITE.name} · ${SITE.tagline}`, template: `%s · ${SITE.name}` },
   description: SITE.description,
   openGraph: {
