@@ -13,6 +13,8 @@ faq:
     a: "Surviving a crash often reflects resilience — the sense that even if a plan falls apart, you'll come through it. It can point to recovery, perspective, and starting again."
 ---
 
+For years I assumed plane-crash dreams meant I was scared of flying. Then I noticed the pattern: they only ever came the night before something I'd bet a lot on went live — a pitch, a launch, a leap I couldn't take back. The plane was never really a plane. It was the thing I'd built and could no longer steer once it left the ground. Reading it that way took the terror out of it and turned it into a useful question, which is the spirit I'd suggest here.
+
 ## What It Means to Dream About a Plane Crash
 
 First, the reassurance you're probably looking for: a plane crash dream is **symbolic, not a premonition**. It is not a warning about an upcoming flight. The mind chooses this image because a plane is the perfect symbol for an ambitious plan — something you've built, boarded, and trusted to carry you toward a destination high above the ground.

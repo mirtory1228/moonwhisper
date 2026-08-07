@@ -36,6 +36,8 @@ Pay attention to how you felt walking down that aisle — or watching someone el
 
 Notice who was there, too. A wedding surrounded by loved ones can reflect a sense of support and belonging, while an empty or chaotic ceremony may mirror feeling alone in a big decision. The dream isn't handing you a date on the calendar; it's showing you how ready — or uncertain — you feel about joining yourself to something new.
 
+The one wedding dream I still think about had me at the altar with cold feet so intense I woke up relieved — and I wasn't even in a relationship at the time. It took me embarrassingly long to see it was about a job offer I was on the verge of accepting and quietly dreading. Ever since, I read the emotion in these dreams before anything else, because for me it's been a far more honest gauge of how ready I actually am than whatever I was saying out loud to people.
+
 ## What to Reflect On
 
 - What in your life is asking for a deeper commitment right now?

@@ -15,6 +15,8 @@ faq:
 
 A pregnancy dream can feel vivid and full of emotion. In the Western dream-dictionary tradition, it's one of the most hopeful symbols there is — but it usually isn't about a literal baby. Pregnancy in dreams is the image of something new growing inside you.
 
+I dreamed I was pregnant twice in my life, and neither time was I anywhere near actually expecting. Both came while I was quietly building something I hadn't told many people about yet — once a piece of writing I was scared to show anyone, once a plan to change careers. What struck me later was the specific mix of feelings in the dreams: protective, hopeful, and a little terrified all at once, which was exactly how I felt about those unfinished things in waking life. That's why I gently steer people away from the literal reading first. More often it's your mind naming something tender you're carrying before it's ready to be seen.
+
 ## What a Pregnancy Dream Usually Means
 
 Pregnancy represents potential taking shape. When you're incubating a big idea, starting a creative project, building a business, or growing into a new version of yourself, your mind reaches for the perfect metaphor: creating new life. The dream says something is developing, and it needs time to fully arrive.

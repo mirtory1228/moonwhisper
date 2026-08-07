@@ -39,6 +39,8 @@ When it comes to money and career, 1122 is a green light for turning ambition in
 
 The key word is *action*. 1122 rewards people who pair their vision with a plan: setting goals, showing up consistently, and building brick by brick. Financial growth here tends to come through effort you actually enjoy, so pay attention to the work that lights you up. That's usually where your "master builder" energy wants to go.
 
+If I'm honest about my own pattern, 1122 is the number I most need and most resist. I'm good at the vision part — the notebook full of plans — and historically terrible at pouring the first bit of foundation. The projects of mine that actually went somewhere weren't born in the bursts when I felt most inspired; they came from the dull weeks I showed up and laid one brick anyway. That gap between dreaming and building is exactly where I read 1122 as pointing.
+
 ## 1122 and Twin Flames
 
 For twin flames, 1122 is deeply significant. The mirrored 11 and 22 reflect the twin flame journey itself — two halves reflecting one another. Seeing 1122 can signal that a twin flame connection is aligning, or that you and your counterpart are entering a phase of building something lasting together.

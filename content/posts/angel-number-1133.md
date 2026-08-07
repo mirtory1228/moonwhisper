@@ -27,6 +27,10 @@ The core message: your growth is being amplified. Your guides are close, cheerin
 
 It also shows up during periods of rapid personal growth. If life feels like it's stretching you lately, 1133 is confirmation that you're evolving on purpose, not by accident. The discomfort of growth is part of the point.
 
+## A personal take on 1133
+
+A personal take: 1133's "stop playing small" message is one I've needed more than once. For years I sat on writing I never showed anyone, telling myself it wasn't ready — which, I eventually admitted, was just a tidy cover for being scared of being seen. What finally moved me wasn't a sign in the sky; it was the low, nagging boredom of keeping everything private. So if 1133 keeps finding you, I'd read it less as a cosmic assignment and more as that same restlessness asking for a window to climb out of.
+
 ## 1133 in Love and Relationships
 
 In love, 1133 asks you to show up as your real self. Relationships thrive when both people feel free to express who they truly are, and this number encourages that kind of openness. If you've been holding back your feelings or shaping yourself to please someone else, 1133 is your cue to be honest.

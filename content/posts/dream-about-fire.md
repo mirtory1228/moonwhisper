@@ -36,6 +36,8 @@ Pay close attention to your feeling in the dream, because it usually tells you w
 
 It is also worth noticing whether you were watching the fire or caught inside it. Watching from a safe distance can suggest you are processing change from a place of some perspective. Being surrounded by flames tends to mirror feeling consumed by an intense situation right now.
 
+I'll admit my own fire dreams have split cleanly down that line. The cozy-fireplace ones came during rare calm stretches when I actually liked what I was building. The one I still remember vividly — a kitchen fire I couldn't put out — landed the same week I was swallowing a lot of anger I hadn't let myself say to anyone. Once I finally had the hard conversation, the burning dreams stopped. That's the pattern I trust now: for me, uncontrolled fire is almost always heat I've been holding in.
+
 ## What to Reflect On
 
 Fire dreams reward a little honest self-questioning. Consider:

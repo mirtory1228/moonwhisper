@@ -36,6 +36,8 @@ The feeling of the house tells you a great deal. Did it feel safe and warm, like
 
 Notice which rooms drew you in and which ones you avoided. The room you were afraid to enter often represents a feeling or memory you have been reluctant to face, while the room you loved may point to a part of yourself that is thriving.
 
+For what it is worth, the house that recurs in my own dreams is always my childhood home with one extra room I do not recognize — and it tends to show up when I am overdue for some kind of inner spring-cleaning. I have stopped treating that room as spooky and started treating it as a quiet to-do: some part of me I have been ignoring. It never predicts anything. It just points at what I have been walking past.
+
 ## What to Reflect On
 
 House dreams invite a gentle walk through your inner rooms. Ask yourself:

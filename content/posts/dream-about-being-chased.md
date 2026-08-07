@@ -38,6 +38,10 @@ Chase dreams run on adrenaline, but underneath the fear is usually a specific fe
 
 Some traditions read being chased as a symbol of spiritual struggle or of feeling pursued by consequences. Across cultures, though, the through-line is consistent: the dream is about confrontation deferred. Whether you frame it spiritually or psychologically, it points to the same practical step — stop running long enough to see what's behind you.
 
+## When I've Had This Dream
+
+I'm a lifelong chase-dreamer, and I've stopped pretending it's random. Every stretch of these dreams in my life has lined up with something I was actively dodging — a hard conversation, an email I kept "meaning to" send, a truth about a situation I didn't want to name out loud. What finally slowed them down wasn't running faster in the dream; it was dealing with the thing in daylight. So when one wakes me now, I don't ask who was chasing me. I ask what I've been avoiding, and the answer is usually embarrassingly obvious the second I let myself look.
+
 ## What to Reflect On
 
 Ask yourself: What have I been putting off or avoiding lately? Is there an emotion I keep pushing down? Is there a conversation or decision I know is waiting for me? Chase dreams tend to ease once you stop fleeing and turn around — even a small step toward the thing you're avoiding can quiet the pursuit.

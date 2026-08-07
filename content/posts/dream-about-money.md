@@ -36,6 +36,10 @@ Your feeling in the dream cuts straight to the meaning. Did finding or holding m
 
 It also helps to notice your attitude toward the money. Clinging to it tightly can suggest fear of loss or a need for control, while spending or sharing it freely can point to confidence and a sense of having enough.
 
+## The honest version, from my own dreams
+
+I used to assume money dreams were my brain fretting about bills. Then I paid attention to the timing. The dream where I kept finding folded bills in old coat pockets came the week I finally landed work I was proud of — it wasn't about cash, it was about suddenly feeling like I was worth something again. And the anxious ones, where money slipped through my fingers or I counted and came up short, always showed up when I was doubting whether I measured up, not when my account was actually low. So I've stopped reading them as financial forecasts. For me they're a mood ring for self-worth, and they've been uncannily accurate at that.
+
 ## What to Reflect On
 
 Money dreams invite an honest check-in on how you value yourself and your options. Ask:

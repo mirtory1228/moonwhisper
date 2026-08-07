@@ -27,6 +27,8 @@ If 123 keeps appearing, the universe is nudging you to keep things simple. You m
 
 Seeing 123 is also a sign that it's time to take the next step, not the tenth step, just the next one. And it may be pointing to something you need to release first. When you let go of what's no longer serving you, forward movement becomes almost effortless. Trust the momentum.
 
+This is the lesson I seem to have to relearn constantly. My instinct whenever I want something is to build a spreadsheet, research for a week, and then quietly never begin — dressing up avoidance as diligence. The few times I've actually gotten unstuck, it was never the grand plan that did it; it was doing the one unglamorous next thing and letting the rest reveal itself from there. So I read 123 as a gentle callout of my own overthinking far more than a prophecy about the future.
+
 ## 123 in Love and Relationships
 
 In love, 123 signals a natural next step. Whether that's a first date, a deeper commitment, or an honest conversation, this number says you don't have to force it. Let the relationship progress at its own easy pace, one step at a time.

@@ -15,6 +15,8 @@ faq:
 
 909 has a bittersweet quality. It usually arrives at the end of something — and endings can ache — but its real message is about the space that opens up afterward. This number is here to help you close a door so you can finally see the one that's opening.
 
+A bit of personal honesty up front: endings are the thing I'm worst at, so 909 is a number I've had a complicated relationship with. It never told me anything I didn't secretly already know — it just kept showing up while I clung to a chapter that was clearly finished, as if repetition could shame me into letting go. It couldn't, of course, but it did make the clinging harder to pretend away, and eventually that was enough. So I'd read everything below as a companion to a decision you may have already made, not a prophecy about one.
+
 ## What 909 really means
 
 909 is the number of completion and closure. The nines bracket a zero, and nine is the energy of endings, wisdom, and service — the final digit, the sum of a cycle. The zero at the center marks a threshold: an ending that is also a beginning. Together they say a chapter is finishing, and it's finishing so your purpose can move to the foreground.

@@ -27,6 +27,10 @@ When 1010 appears again and again, the universe is reminding you that a new chap
 
 Seeing 1010 is also a nudge toward spiritual development. You may be waking up to deeper questions about your purpose or feeling drawn to grow in new ways. Take it as reassurance that you're heading in the right direction. Keep your thoughts hopeful and let go of what no longer fits.
 
+## What I've noticed about 1010
+
+What I've noticed about 1010 is how it tends to surface when I'm quietly outgrowing something before I'm willing to admit it out loud. It rarely shows up in the calm stretches; it shows up in the weeks I keep making excuses for a routine or a commitment that no longer fits. I don't think the number causes the shift — I think it just names the restlessness I'd been talking myself out of. So when I see 1010 now, I treat it as a prompt to ask one honest question: what have I already outgrown?
+
 ## 1010 in Love and Relationships
 
 In love, 1010 is all about growth and fresh starts. If you're in a relationship, it invites you and your partner to evolve together and align your lives with what truly matters to you both. Small, honest conversations can open a whole new chapter.

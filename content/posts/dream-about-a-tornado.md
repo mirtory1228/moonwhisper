@@ -36,6 +36,10 @@ Tornado dreams are rarely subtle, and the emotion is usually the whole point. We
 
 Notice what the tornado threatened, too. A funnel heading for your house, your family, or your workplace can point to exactly where in life you feel most exposed. The dream isn't warning you that ruin is coming; it's showing you where you feel the ground shifting.
 
+## What This Dream Tends to Really Be About
+
+When tornadoes show up in my own sleep, it's never subtle and it's never actually about the weather. They arrive in the stretches when too much is happening at once and I've been insisting to everyone, myself included, that I'm handling it fine. The funnel is basically my stress made visible — the stuff I've been outrunning in daylight, catching up with me at night. I've learned to treat one of these dreams as a blunt little check-engine light: something's spinning that I haven't slowed down long enough to name. Nine times out of ten, naming it is what makes it quiet down.
+
 ## What to Reflect On
 
 - What in your life currently feels chaotic or beyond your control?

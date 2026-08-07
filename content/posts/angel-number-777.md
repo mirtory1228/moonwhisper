@@ -45,6 +45,10 @@ For those on a twin flame journey, 777 is deeply reassuring. It often signals sp
 
 This number reminds twin flames that the connection is meant to teach and elevate you. Trust the process, even the messy parts.
 
+## A personal note on 777
+
+I used to want 777 to mean a lucky break was on its way, and I've slowly made peace with the fact that it doesn't work like that for me. Looking back, the times it kept appearing weren't lucky ones — they were the times I'd been quietly trusting myself and it happened to pay off. The "luck" was mostly me noticing, after the fact, that alignment and steady effort had been doing the work all along. If it keeps finding you, I'd let it point you back toward what you already know is working, not toward a lottery ticket.
+
 ## What to Do Next
 
 When you see 777, pause for a second and take a breath. Notice what you were just thinking or feeling. That moment often holds a clue. Keep trusting your intuition, stay grateful for how far you've come, and don't be afraid to take the next step you've been considering. The universe seems to be on your side right now, so lean into it.

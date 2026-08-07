@@ -27,6 +27,8 @@ Repetition is the whole point. When a number follows you around, it's usually mi
 
 It also tends to appear during transitions you didn't choose. A move, a breakup, a role that quietly ended. In those moments 919 is reassurance that the ground shifting under you is actually clearing space, not swallowing you whole.
 
+For what it's worth, this matches my own experience almost too well. Every time 919 started following me around, it was mirroring a decision I'd been circling for months — the resignation I kept drafting in my head, the conversation I rehearsed and never had. The number didn't push me over the edge. It just made the circling impossible to keep mistaking for progress, which, for a chronic over-thinker, turned out to be the more useful gift.
+
 ## Love and Relationships
 
 In love, 919 asks an honest question: does this relationship fit the person you're becoming, or the person you used to be? If you're single, it often signals that you're finally ready for something real, and that means letting go of patterns that kept pulling you toward the wrong people.

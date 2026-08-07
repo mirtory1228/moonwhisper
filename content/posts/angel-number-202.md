@@ -27,6 +27,10 @@ The core message is trust. You're being asked to keep the faith when the results
 
 It also shows up when your relationships need more balance. If you've been giving too much or too little, 202 nudges you back toward the middle.
 
+## The waiting I keep resisting
+
+The waiting I keep resisting is exactly the state 202 seems to catch me in. I'm a chronic inbox-refresher — when I'm hoping for an answer, I'll check, re-check, and quietly convince myself that checking counts as making progress. It never does. Looking back, none of the outcomes I actually cared about showed up any sooner because I hovered over them; they arrived when they were ready, and the hovering only made the wait feel longer. So I've started treating 202 as a plain nudge to put the phone down and let the thing cook.
+
 ## Love and relationships
 
 In love, 202 is all about harmony and cooperation. It favors the quiet strength of partnership — listening, compromising, meeting halfway. If tension has crept in, the number asks you to lead with patience rather than ultimatums. Trust that a rough patch is part of the rhythm, not the end of the song.

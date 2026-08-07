@@ -15,6 +15,8 @@ faq:
 
 Few dreams feel as wonderful as flying. In the Western dream-dictionary tradition, taking to the air is one of the most positive symbols you can experience — a rush of freedom, confidence, and possibility. But even flying dreams have nuance, and the details tell the story.
 
+I still remember the stretch when I finally quit a job that had been quietly draining me — for about two weeks straight I kept dreaming I could push off the sidewalk and just glide. It wasn't magic and it didn't predict anything. Looking back, it was simply the first time in ages I'd felt light, and my sleeping mind gave that relief a shape. Ever since, I've noticed the good flying dreams show up right after I set something down I'd been carrying too long. That's the lens I'd offer: less prophecy, more your mind toasting a moment of freedom you've actually earned.
+
 ## What a Flying Dream Usually Means
 
 Flying represents liberation. When you lift off the ground, you're rising above whatever normally holds you down — stress, limits, other people's expectations. These dreams often show up when you feel empowered, in control, or ready to reach higher. They're your mind celebrating a sense of freedom and ambition.

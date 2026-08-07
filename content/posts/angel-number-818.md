@@ -39,6 +39,8 @@ Money and career are where 818 shines brightest. This number is a strong signal 
 
 It also asks you to take ownership of your financial power. Make deliberate choices, invest in your goals, and trust your ability to create prosperity. Because eight carries karmic balance, generosity and integrity in your work tend to come back to you. Step up, take charge, and welcome the abundance you're building.
 
+Here's where my own read on 818 drifts from the tidy version: I don't think it announces incoming money. What I've noticed is that it tends to surface when I've been waiting for permission — for someone to hand me a raise, an opening, a green light — instead of owning a decision I was fully able to make myself. The real shift 818 nudged in me wasn't financial so much as the plain admission that I'd been treating my own power as if it belonged to somebody else.
+
 ## 818 and Twin Flames
 
 For twin flames, 818 speaks to balance and karmic connection. The infinity energy of the eights reflects the eternal, mirror-like nature of the twin flame bond, while the central one points to new beginnings within the relationship. It's a number of powerful equilibrium.

@@ -15,6 +15,8 @@ faq:
 
 You're back in a classroom. The exam is in front of you, the clock is ticking, and you realize you never studied — or you can't find the room, or your pen won't write. Test dreams are one of the most common dreams adults have, and the strangest part is how many people keep having them decades after they last sat an exam. That's the clue: the test was never really about school.
 
+I hadn't sat a real exam in years when these dreams came roaring back, always the night before something that scared me — a presentation I felt underqualified for, a review with a boss I was desperate to impress. Never once did I actually forget how to write or fail to find the room in waking life. What the dream nailed every time was the private fear underneath: that I'd be found out as not-enough in front of people who were judging me. Now when I wake from one, I don't treat it as a bad omen. I treat it as a heads-up that I'm walking into something where I feel like I'm being graded.
+
 ## What Test Dreams Usually Mean
 
 In the Western dream-dictionary tradition, an exam is a stand-in for any moment when you feel measured. The dream tends to surface when some part of your life has you quietly asking, "Am I good enough for this?"

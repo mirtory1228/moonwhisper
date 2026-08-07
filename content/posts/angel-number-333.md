@@ -25,6 +25,10 @@ There's also a strong theme of support. Many people read 333 as a reminder that 
 
 333 often turns up when you've been playing small. Maybe you've muted your opinions, sidelined a creative project, or talked yourself out of sharing your work. This number is a push to express yourself honestly. It can also appear during a growth spurt — a season where you're learning fast and stretching past your comfort zone. Lean in.
 
+## What 333 nudges in me
+
+What 333 nudges in me is less about making art and more about taking up space in a room. My habit in group settings is to shrink — to sit on an opinion until someone else voices a watered-down version, then nod along with theirs. It's safe, and it's also a slow way to disappear. When 333 keeps surfacing, I've come to hear it as a small dare to say the thing first, in my own words, and risk being a little too much rather than not quite enough.
+
 ## 333 in love and relationships
 
 In love, 333 is all about communication and growth. It encourages you to say what you really feel instead of hinting and hoping. Honest, open conversations are exactly what this number supports.

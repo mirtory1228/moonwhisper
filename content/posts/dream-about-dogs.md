@@ -36,6 +36,10 @@ How you felt about the dog points straight to the meaning. Did the dog make you 
 
 It is also telling to notice your relationship with the dog. A dog you knew and loved tends to point to a specific bond in your life, while an unfamiliar dog may represent a newer relationship or a side of yourself you are still getting to know.
 
+## When I've actually had this dream
+
+The times a dog showed up in my own dreams almost always lined up with something going on around trust. A warm, tail-wagging dog tended to appear in stretches when I felt genuinely backed by the people close to me. The one that stuck with me, though, was a dream where a dog I loved kept growling at someone I'd just started letting into my life — and a few weeks later that person did turn out to be exactly the wrong bet. I don't think the dream knew anything. I think some part of me already did, and the dog was just the messenger I couldn't ignore.
+
 ## What to Reflect On
 
 Dog dreams invite you to look at loyalty and trust — both given and received. Ask yourself:

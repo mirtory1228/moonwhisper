@@ -36,6 +36,10 @@ The feeling in a cheating dream is the real headline. Were you devastated, guilt
 
 If you woke up shaken, be gentle with yourself, and with your partner. A dream like this can stir up suspicion that isn't fair to either of you. The healthiest move is usually not accusation but curiosity: *what is this feeling trying to tell me?* Often it's a longing for closeness, honesty, or reassurance that a simple conversation can begin to meet.
 
+## My Own Read on These
+
+I've woken up genuinely annoyed at a partner for something they did only in my dream, and it taught me not to trust the plot of these at all. Every time it's happened, the dream was tracking my own insecurity — a stretch where I felt a little unseen or unsure of my worth — far more than anything they were actually doing. The unfair part is how real the resentment still feels at breakfast. What's helped me is treating the dream as a flag about a need of mine going unspoken, not as evidence to quietly hold against someone else.
+
 ## What to Reflect On
 
 - Where do you feel insecure or unsure of your worth right now?

@@ -15,6 +15,8 @@ faq:
 
 You're rushing. The clock says you're already too late, your legs won't move fast enough, and every step seems to put the goal further away. Late dreams are a special kind of exhausting — you wake up tired, as if you'd actually spent the night sprinting. And that frustration is the message. These dreams almost always show up when some part of you feels behind.
 
+Honestly, these are my most frequent dreams, and I've made a kind of uneasy peace with them. They almost never turn up when I have a real deadline looming — they turn up when I've been measuring myself against where I think I "should" be by now, which is a race no actual clock is keeping. The dream just dramatizes a pressure I've quietly agreed to carry. Once I noticed that, missing the train in my sleep started feeling less like a warning and more like a question about whose timeline I'm even running on.
+
 ## What "Being Late" Dreams Usually Mean
 
 In the Western dream-dictionary tradition, being late is tied to time, timing, and opportunity. The dream tends to surface when you're worried you're running out of one of the three.

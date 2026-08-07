@@ -45,6 +45,10 @@ For twin flames, 707 is a highly spiritual signal. The repeated 7 speaks to soul
 
 If you're in separation, 707 suggests the distance is serving a spiritual purpose — you're each becoming more whole. If you're in union, it's a sign your connection is evolving into something even more profound. Trust the timing; on the twin flame path, inner growth always comes first.
 
+## Where I've seen this land
+
+My honest experience with 707 is that it never handed me wisdom — it just showed up when I'd finally gotten quiet enough to hear the wisdom I already carried. The stretches it followed me around were the reflective ones, where I was asking bigger questions than usual and half-ignoring my own gut. Reading it as "trust your intuition" is fine, but the more useful version for me was plainer: I already knew the answer, I was just avoiding the silence long enough to admit it.
+
 ## What to Do Next
 
 - **Trust your intuition.** That quiet inner voice is worth listening to right now.

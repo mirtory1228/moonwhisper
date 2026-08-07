@@ -39,6 +39,8 @@ A few themes come up again and again:
 
 Pay attention to how you felt, not just what happened. Was it sheer panic? Quiet embarrassment? Or a strange sense of relief? The emotion is the real message. Panic points to a place where you feel exposed and want to hide. Calm points to a part of you that's ready to be seen. The same image — nakedness — can mean opposite things depending on the feeling attached to it.
 
+My own version always takes place somewhere I'm supposed to have it together — a room full of people I want to impress — and it turns up right before I put something of mine out into the world. I've come to read it as nerves about being seen, not about my body at all. The tell, for me, is the specific flavor of panic: it's the fear of being found out, and it tends to fade the moment I remember no one is actually studying me as hard as the dream insists they are.
+
 ## What to Reflect On
 
 Ask yourself: Where do I feel exposed right now? Is there something I'm afraid people will discover about me — a mistake, a doubt, a soft spot I usually keep covered? Or, on the flip side, is there a part of me finally ready to drop the act and show up honestly? Naked dreams tend to arrive at thresholds — new jobs, new relationships, moments of visibility — when the question of "will they accept the real me?" is quietly running underneath everything.

@@ -15,6 +15,8 @@ faq:
 
 When 222 keeps showing up — on the clock, on a receipt total, on the page number you happen to land on — it usually arrives during a stretch where you're waiting on something. This number has a calming message. Here's what 222 tends to mean and how to lean into it.
 
+Full disclosure before we dig in: the balance half of 222 is the part I personally flunk. My default when I care about something is to overgive — to pour everything into one relationship or one project until the rest of my life quietly tips over. The times this number has meant the most to me weren't about waiting on an outcome at all; they were the moments I realized I'd been running on empty and calling it dedication. So here's the lens I'd offer: before you read 222 as "be patient," check whether it's really asking "are you overdrawn?"
+
 ## What 222 means
 
 222 is the angel number of balance and harmony. The number 2 is about partnership, cooperation, and trust, and seeing it tripled amplifies that gentle, steadying energy. Where 111 is a spark, 222 is the quiet reassurance that things are coming together behind the scenes.

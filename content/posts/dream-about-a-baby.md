@@ -36,6 +36,10 @@ Notice how the baby made you feel, because it points straight to your relationsh
 
 It is also worth noticing whether the baby was yours, a stranger's, or someone you know. A baby you felt responsible for tends to point to something you personally are nurturing, while a more distant baby may reflect a new beginning you are watching unfold nearby.
 
+## When This One Visited Me
+
+The baby dreams I remember most didn't come when I was thinking about kids at all. They showed up the month I started something I wasn't sure I could keep alive — a side project, mostly, that felt a little embarrassing to admit I cared about that much. I didn't read it as a sign of anything. It just made me notice I was quietly terrified of dropping the thing before it had a chance to become real. If a baby has been turning up in your sleep, I'd gently ask what small, new thing you've been carrying that you haven't told many people about yet.
+
 ## What to Reflect On
 
 Baby dreams gently ask what you are bringing to life. Consider:
