@@ -1190,3 +1190,21 @@ a { color: inherit; text-decoration: none; }
   .shuffle-card { animation: none !important; }
   .flip-inner { transition: none !important; }
 }
+
+/* ═══ Tarot polish: real card images + fan spacing ═══ */
+.flip-front { padding: 0; overflow: hidden; }
+.fc-img { width: 100%; height: 100%; object-fit: cover; display: block; border-radius: 11px; }
+.fc-img.reversed { transform: rotate(180deg); }
+.reveal-info { display: flex; flex-direction: column; align-items: center; gap: 4px; margin-top: 16px; max-width: 250px; }
+.reveal-info .fc-name { margin: 2px 0 0; font-size: 20px; }
+.reveal-info .reveal-meaning { margin-top: 8px; }
+
+/* fan must not overlap the explainer below it */
+.tarot-spread-wrap { min-height: 480px; }
+.tarot-fan { height: 340px; margin: 30px auto 60px; }
+.tarot-card { transform-origin: 50% 232px; }
+@media (max-width: 640px) {
+  .tarot-spread-wrap { min-height: 380px; }
+  .tarot-fan { height: 270px; margin: 20px auto 44px; }
+  .tarot-card { transform-origin: 50% 190px; }
+}

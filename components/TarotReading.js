@@ -108,16 +108,24 @@ export default function TarotReading() {
                 <div className={`flip${flipped.includes(k) ? ' flipped' : ''}`}>
                   <div className="flip-inner">
                     <div className="flip-face flip-back card-back" />
-                    <div className={`flip-face flip-front${c.reversed ? ' reversed' : ''}`}>
-                      <span className="fc-arcana">{c.arcana}</span>
-                      <span className="fc-name">{c.name}</span>
-                      <span className="fc-orient">{c.reversed ? 'Reversed' : 'Upright'}</span>
-                      <span className="fc-kw">{c.reversed ? c.revKw : c.upKw}</span>
+                    <div className="flip-face flip-front">
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        className={`fc-img${c.reversed ? ' reversed' : ''}`}
+                        src={c.img}
+                        alt={`${c.name} tarot card`}
+                        onError={(e) => { e.currentTarget.style.display = 'none'; }}
+                      />
                     </div>
                   </div>
                 </div>
                 {flipped.includes(k) && (
-                  <p className="reveal-meaning">{c.reversed ? c.rev : c.up}</p>
+                  <div className="reveal-info">
+                    <span className="fc-arcana">{c.arcana}</span>
+                    <span className="fc-name">{c.name}{c.reversed ? ' · Reversed' : ''}</span>
+                    <span className="fc-kw">{c.reversed ? c.revKw : c.upKw}</span>
+                    <p className="reveal-meaning">{c.reversed ? c.rev : c.up}</p>
+                  </div>
                 )}
               </div>
             ))}
