@@ -1253,3 +1253,86 @@ a { color: inherit; text-decoration: none; }
 .dr-snippet { display: block; font-size: 14.5px; color: var(--text-dim); margin: 6px 0 8px; line-height: 1.55; }
 .dr-cta { display: block; font-size: 13.5px; color: var(--jade); font-weight: 600; }
 .dream-empty { color: var(--text-dim); text-align: center; padding: 24px 0; }
+
+/* ── Numerology / Life Path calculator ── */
+.numo-tool { margin: 6px 0 10px; }
+.numo-form {
+  padding: 20px 18px; border-radius: 16px;
+  background: var(--surface); border: 1px solid var(--border);
+  backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
+}
+.numo-fields { display: grid; grid-template-columns: 1.4fr .8fr 1fr; gap: 12px; }
+.numo-field { display: flex; flex-direction: column; gap: 6px; }
+.numo-field > span { font-size: 12.5px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--gold-soft); }
+.numo-field select, .numo-field input {
+  padding: 12px 12px; border-radius: 10px; border: 1px solid var(--border);
+  background: rgba(11,16,38,.5); color: var(--text); font-size: 16px; width: 100%;
+}
+.numo-field select:focus, .numo-field input:focus { outline: none; border-color: rgba(232,198,107,.6); }
+.numo-field input::placeholder { color: var(--text-faint); }
+.numo-btn {
+  width: 100%; margin-top: 16px; padding: 14px 16px; border-radius: 12px; border: none;
+  font-size: 16px; font-weight: 800; cursor: pointer; color: #1a1030;
+  background: linear-gradient(120deg, var(--gold), var(--gold-soft));
+  transition: opacity .16s, transform .12s;
+}
+.numo-btn:hover:not(:disabled) { transform: translateY(-1px); }
+.numo-btn:disabled { opacity: .45; cursor: not-allowed; }
+
+.numo-result {
+  margin-top: 22px; padding: 26px 22px; border-radius: 18px;
+  background: var(--surface); border: 1px solid var(--border);
+  backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
+  animation: numoIn .3s ease;
+}
+@keyframes numoIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+.numo-badge { display: flex; align-items: center; gap: 14px; }
+.numo-num {
+  font-size: 54px; font-weight: 800; line-height: 1; width: 84px; height: 84px;
+  display: flex; align-items: center; justify-content: center; border-radius: 50%;
+  color: #1a1030; background: linear-gradient(135deg, var(--gold), var(--gold-soft));
+  box-shadow: 0 0 26px rgba(232,198,107,.35);
+}
+.numo-label { font-size: 13px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--gold-soft); }
+.numo-title { font-size: 26px; margin: 18px 0 4px; color: var(--text); }
+.numo-title em { display: block; font-style: normal; font-size: 14px; font-weight: 600; color: var(--jade); margin-top: 4px; letter-spacing: .02em; }
+.numo-keywords { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 16px; }
+.numo-kw {
+  font-size: 13px; padding: 5px 12px; border-radius: 999px; text-transform: capitalize;
+  color: var(--gold-soft); background: rgba(232,198,107,.1); border: 1px solid rgba(232,198,107,.25);
+}
+.numo-summary { font-size: 16.5px; line-height: 1.68; color: var(--text-dim); margin: 0 0 20px; }
+.numo-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 20px; }
+.numo-col { padding: 16px 16px; border-radius: 12px; background: rgba(255,255,255,.03); border: 1px solid var(--border); }
+.numo-col h3 { font-size: 14px; margin: 0 0 8px; color: var(--gold-soft); }
+.numo-col p { font-size: 14.5px; line-height: 1.6; color: var(--text-dim); margin: 0; }
+.numo-math { margin-bottom: 20px; }
+.numo-math-label { display: block; font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--text-faint); margin-bottom: 8px; }
+.numo-math code {
+  display: block; padding: 12px 14px; border-radius: 10px; font-size: 13.5px; line-height: 1.7;
+  color: var(--text-dim); background: rgba(11,16,38,.5); border: 1px solid var(--border);
+  font-family: ui-monospace, 'SFMono-Regular', Menlo, monospace; overflow-x: auto;
+}
+.numo-math code b { color: var(--gold-soft); }
+.numo-relate {
+  display: flex; align-items: center; gap: 16px; padding: 16px 18px; border-radius: 14px;
+  background: linear-gradient(120deg, rgba(107,208,176,.08), rgba(232,198,107,.08));
+  border: 1px solid rgba(107,208,176,.3); transition: border-color .16s, transform .16s;
+}
+.numo-relate:hover { border-color: rgba(107,208,176,.6); transform: translateY(-2px); }
+.numo-relate-num { font-size: 30px; font-weight: 800; color: var(--jade); line-height: 1; }
+.numo-relate-text { display: flex; flex-direction: column; gap: 4px; }
+.numo-relate-text strong { font-size: 15px; color: var(--text); }
+.numo-relate-text em { font-style: normal; font-size: 13.5px; color: var(--jade); }
+.numo-again {
+  display: inline-block; margin-top: 20px; padding: 10px 16px; border-radius: 10px;
+  background: none; border: 1px solid var(--border); color: var(--text-dim);
+  font-size: 14px; cursor: pointer; transition: border-color .16s, color .16s;
+}
+.numo-again:hover { border-color: rgba(232,198,107,.5); color: var(--gold-soft); }
+@media (max-width: 560px) {
+  .numo-fields { grid-template-columns: 1fr; }
+  .numo-cols { grid-template-columns: 1fr; }
+  .numo-num { width: 68px; height: 68px; font-size: 42px; }
+  .numo-title { font-size: 22px; }
+}
