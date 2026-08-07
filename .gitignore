@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+.env*.local
+.DS_Store
+
+# 서버 로그
+*.out
+*.err
