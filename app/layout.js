@@ -3,6 +3,7 @@ import Link from 'next/link';
 import Script from 'next/script';
 import { SITE } from '@/lib/site';
 import SideDecor from '@/components/SideDecor';
+import DreamyBackground from '@/components/DreamyBackground';
 
 export const metadata = {
   metadataBase: new URL(SITE.url),
@@ -38,6 +39,7 @@ export default function RootLayout({ children }) {
           </>
         ) : null}
 
+        <DreamyBackground />
         <SideDecor />
 
         <header className="site-header">
