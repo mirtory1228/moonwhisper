@@ -1053,3 +1053,41 @@ a { color: inherit; text-decoration: none; }
 @media (prefers-reduced-motion: reduce) {
   .side-decor.left, .side-decor.right, .deco-zodiac, .deco-animal { animation: none !important; }
 }
+
+/* ═══ Readability boost + bigger, livelier side scenery (overrides) ═══ */
+/* content boxes: darker & more opaque so text pops over the galaxy */
+:root { --surface: rgba(17, 22, 48, 0.72); --border: rgba(255, 255, 255, 0.15); }
+
+/* frosted-glass softening behind the main reading boxes */
+.post-card, .post-tldr, .post-toc, .post-related, .post-faq,
+.search-box, .ad-slot.placeholder, .match-result {
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+
+/* bigger side constellations, tarot cards & zodiac animals */
+.side-decor { width: clamp(150px, 17vw, 240px); opacity: 0.72; }
+.deco-zodiac { width: 88px; }
+.deco-card { width: 74px; }
+.deco-animal { font-size: 40px; opacity: 0.62; filter: grayscale(0.15); }
+
+/* constellations turn — preserve center offset while rotating */
+@keyframes slowSpin {
+  from { transform: translateX(-50%) rotate(0deg); }
+  to   { transform: translateX(-50%) rotate(360deg); }
+}
+/* 12 zodiac animals: clearer float + sway (staggered so they move independently) */
+@keyframes animalFloat {
+  0%, 100% { transform: translateX(-50%) translateY(0) rotate(0deg); }
+  25% { transform: translateX(-50%) translateY(-11px) rotate(5deg); }
+  50% { transform: translateX(-50%) translateY(-4px) rotate(-4deg); }
+  75% { transform: translateX(-50%) translateY(-13px) rotate(3deg); }
+}
+.deco-animal { animation: animalFloat 11s ease-in-out infinite; }
+.deco-animal:nth-child(odd) { animation-duration: 13.5s; animation-delay: -3s; }
+.deco-animal:nth-child(3n)  { animation-duration: 15s; animation-delay: -6.5s; }
+
+@media (prefers-reduced-motion: reduce) {
+  .deco-animal { animation: none !important; transform: translateX(-50%) !important; }
+  .deco-zodiac { animation: none !important; transform: translateX(-50%) !important; }
+}
