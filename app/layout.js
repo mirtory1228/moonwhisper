@@ -53,6 +53,7 @@ export default function RootLayout({ children }) {
           <nav className="site-nav">
             <Link href="/">Home</Link>
             <Link href="/angel-numbers">Angel Numbers</Link>
+            <Link href="/tarot">Tarot Reading</Link>
             <Link href="/about">About</Link>
             <Link href="/contact">Contact</Link>
           </nav>

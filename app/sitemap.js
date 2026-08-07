@@ -3,10 +3,10 @@ import { SITE } from '@/lib/site';
 
 export default function sitemap() {
   const base = SITE.url.replace(/\/$/, '');
-  const staticPages = ['', '/angel-numbers', '/about', '/privacy', '/contact'].map((p) => ({
+  const staticPages = ['', '/angel-numbers', '/tarot', '/about', '/privacy', '/contact'].map((p) => ({
     url: `${base}${p}`,
     changeFrequency: 'weekly',
-    priority: p === '' ? 1 : p === '/angel-numbers' ? 0.9 : 0.5,
+    priority: p === '' ? 1 : (p === '/angel-numbers' || p === '/tarot') ? 0.9 : 0.5,
   }));
   const postPages = getAllPosts().map((post) => ({
     url: `${base}/posts/${post.slug}`,
