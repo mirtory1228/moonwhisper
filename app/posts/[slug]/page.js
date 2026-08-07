@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getAllSlugs, getPost, getPostMeta } from '@/lib/posts';
+import { getAllSlugs, getPost, getPostMeta, getRelatedPosts } from '@/lib/posts';
 import AdSlot from '@/components/AdSlot';
 import JsonLd from '@/components/JsonLd';
 
@@ -38,6 +38,8 @@ export default function PostPage({ params }) {
     notFound();
   }
 
+  const related = getRelatedPosts(params.slug, 6);
+
   return (
     <article>
       <JsonLd post={post} />
@@ -65,6 +67,18 @@ export default function PostPage({ params }) {
         />
       )}
 
+      {/* 목차: 검색엔진 구조 인식 + 독자 네비게이션(체류시간↑) */}
+      {post.toc && post.toc.length >= 3 && (
+        <nav className="post-toc" aria-label="Contents">
+          <p className="post-toc-label">Contents</p>
+          <ul>
+            {post.toc.map((t) => (
+              <li key={t.id}><a href={`#${t.id}`}>{t.text}</a></li>
+            ))}
+          </ul>
+        </nav>
+      )}
+
       <AdSlot label="본문 상단 광고" />
 
       <div className="article-body" dangerouslySetInnerHTML={{ __html: post.html }} />
@@ -80,6 +94,20 @@ export default function PostPage({ params }) {
               </div>
             ))}
           </dl>
+        </section>
+      )}
+
+      {/* 관련글 내부링크: 체류시간·SEO·전면광고 기회 ↑ (앵커=글 제목) */}
+      {related.length > 0 && (
+        <section className="post-related">
+          <h2>Related meanings</h2>
+          <ul>
+            {related.map((p) => (
+              <li key={p.slug}>
+                <Link href={`/posts/${p.slug}`}>{p.title}</Link>
+              </li>
+            ))}
+          </ul>
         </section>
       )}
 
