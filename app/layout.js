@@ -7,7 +7,10 @@ import DreamyBackground from '@/components/DreamyBackground';
 
 export const metadata = {
   metadataBase: new URL(SITE.url),
-  verification: { google: 'S4hG618OVHI38cFxLM9e5db5ZXA4ZTPTHGEayEZ2eP8' },
+  verification: {
+    google: 'S4hG618OVHI38cFxLM9e5db5ZXA4ZTPTHGEayEZ2eP8',
+    other: { 'p:domain_verify': 'ac8fe53fa7aad096cf73370059b48eaa' },
+  },
   title: { default: `${SITE.name} · ${SITE.tagline}`, template: `%s · ${SITE.name}` },
   description: SITE.description,
   openGraph: {
