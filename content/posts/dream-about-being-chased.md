@@ -46,4 +46,12 @@ A pattern worth naming: for many people, chase dreams aren't random — a run of
 
 Ask yourself: What have I been putting off or avoiding lately? Is there an emotion I keep pushing down? Is there a conversation or decision I know is waiting for me? Chase dreams tend to ease once you stop fleeing and turn around — even a small step toward the thing you're avoiding can quiet the pursuit.
 
+## Being Chased vs. Being Late or Falling
+
+Chase dreams get lumped in with other stress dreams, but the distinction is useful. A **being-late dream** — missing a train, an exam you forgot to study for — usually points to a specific pressure or deadline you feel underprepared for; the fear is about performing, not escaping. A **falling dream** tends to reflect a loss of control or security, a sense that the ground under a situation is giving way. Being chased is narrower than both: it's specifically about *avoidance* — something is behind you, and the plot is that you keep moving away from it. If your dream centers on a pursuer rather than a clock or a drop, the honest question is less "am I ready?" and more "what am I refusing to turn around and face?"
+
+## The Fight-or-Flight Connection
+
+It helps to know that the body's stress response has three modes, not one: fight, flight, and freeze. Chase dreams almost always dramatize flight — but the details often show which mode your waking self has defaulted to. Running full-tilt can mirror a life in constant escape; the classic frozen-legs, slow-motion version mirrors freeze, the response we fall into when a problem feels too big to fight or flee. Turning to face the pursuer is the flip toward "fight." Noticing which mode your dream keeps replaying can tell you how you're actually meeting the pressure — not just that it's there.
+
 *Dreams are for reflection, not prediction — notice how the dream made you feel.*

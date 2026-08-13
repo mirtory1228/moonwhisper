@@ -49,4 +49,18 @@ Some traditions read falling as a symbol of a fall from grace, pride, or a moral
 
 Ask yourself: Where in my life do I feel out of control or unsupported? Am I overextended, holding on too tightly, or afraid of failing at something? And is there something I'd actually feel lighter letting go of? Falling dreams often surface when you're stretched thin — a reminder to find steadier ground, or to loosen your grip where holding on is only wearing you out.
 
+## Falling vs. Flying Dreams
+
+The two are easy to confuse because both put you in the air, but they tend to point in opposite directions. Flying dreams usually carry a sense of agency — you're choosing the height, steering, enjoying the lift. Falling is the loss of that steering: the height is happening to you. If your dream started as flying and turned into falling, that shift is worth noting on its own — it can mirror a moment when something you felt in command of slipped out of your hands.
+
+A second useful contrast is falling versus **sinking**. Falling is sudden and about control giving way in an instant; sinking is slow and tends to read as being weighed down over time — dread that accumulates rather than a single drop. Which pace matched your dream can hint at whether you're reacting to a sharp change or a slow build.
+
+In broad psychological terms, many dream-interpretation traditions treat falling as the mind processing daytime stress and the feeling of being unsupported, rather than as a message about the future. The **hypnic jerk** at sleep onset is a separate, purely physical event that your dreaming mind sometimes narrates as a fall.
+
+## Ask Yourself
+
+- Was I falling, or did I start out flying and lose control partway through?
+- Did the fall feel sudden, or more like a slow sink I couldn't stop?
+- When I woke, was the stronger feeling fear of losing my grip — or quiet relief at finally letting go?
+
 *Dreams are for reflection, not prediction — notice how the dream made you feel.*

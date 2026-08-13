@@ -51,4 +51,17 @@ Some traditions read teeth dreams as warnings or as omens tied to family and hea
 
 Ask yourself: Where do I feel like I'm losing my grip right now? Is there a conversation I'm anxious about, or a way I'm worried about being seen? Have I been running on stress without a release valve? A teeth dream is often your mind's way of saying the pressure has built up enough to notice — and that naming it is the first step to easing it.
 
+## Falling Out vs. Being Pulled
+
+It's worth separating two versions that feel similar but read differently. When teeth **fall out on their own** — crumbling, loosening, dropping — the instability comes from inside. It usually mirrors a private sense that you're weakening or slipping without anyone forcing it. When a tooth is **pulled or yanked out** — by a dentist, a hand, some outside force — the loss is being done *to* you. Many dream-interpretation traditions read the extraction version as pressure from a person or situation demanding you give something up: a role, a boundary, a part of how you'd rather show up. Both point to loss, but one asks "why do I feel fragile?" and the other asks "what is being taken, and by whom?"
+
+## Where the Dream Happens Matters
+
+The setting often sharpens the message:
+
+- **In front of people** — losing teeth publicly leans toward fear of judgment or embarrassment, of being caught unprepared.
+- **Alone, at home** — the same dream in private tilts inward, toward self-image and quiet worry rather than others' opinions.
+- **At work or before a big event** — this usually tracks performance pressure and the fear of falling short when it counts.
+- **In front of a partner or family** — it can surface insecurity about a close relationship, or about being fully seen by someone whose view of you matters.
+
 *Dreams are for reflection, not prediction — notice how the dream made you feel.*

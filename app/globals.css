@@ -757,6 +757,36 @@ a { color: inherit; text-decoration: none; }
   transition: border-color 0.2s, background 0.2s;
 }
 .load-more:hover { background: rgba(107, 208, 176, 0.18); border-color: rgba(107, 208, 176, 0.6); }
+
+/* Featured "Start here" */
+.featured { margin: 8px 0 4px; }
+.featured-head h2 { font-size: 22px; color: var(--gold-soft); margin: 0 0 4px; }
+.featured-head p { color: var(--text-dim); font-size: 15px; margin: 0 0 16px; }
+.featured-grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.featured-card { display: flex; align-items: center; gap: 12px; padding: 14px 16px; border-radius: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); text-decoration: none; transition: border-color .2s, background .2s, transform .2s; }
+.featured-card:hover { border-color: rgba(191, 240, 233, 0.4); background: rgba(107, 208, 176, 0.08); transform: translateY(-2px); }
+.featured-emoji { font-size: 26px; flex-shrink: 0; }
+.featured-text { display: flex; flex-direction: column; min-width: 0; }
+.featured-text strong { color: var(--text); font-size: 16px; }
+.featured-text em { color: var(--text-dim); font-size: 13px; font-style: normal; }
+@media (max-width: 720px) { .featured-grid { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 440px) { .featured-grid { grid-template-columns: 1fr; } }
+
+/* Browse heading */
+.browse-head { margin: 26px 0 4px; }
+.browse-head h2 { font-size: 20px; color: var(--gold-soft); margin: 0 0 4px; }
+.browse-head p { color: var(--text-dim); font-size: 14px; margin: 0; }
+
+/* Article byline + author box */
+.article-byline { color: var(--text-dim); font-size: 14px; margin: 6px 0 0; }
+.article-byline a { color: var(--jade); text-decoration: none; }
+.article-byline a:hover { text-decoration: underline; }
+.author-box { display: flex; gap: 14px; align-items: flex-start; margin: 28px 0 8px; padding: 16px 18px; border-radius: 14px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); }
+.author-avatar { font-size: 28px; flex-shrink: 0; }
+.author-name { color: var(--gold-soft); font-weight: 700; margin: 0 0 4px; font-size: 15px; }
+.author-bio { color: var(--text-dim); font-size: 14px; line-height: 1.55; margin: 0; }
+.author-bio a { color: var(--jade); text-decoration: none; }
+.author-bio a:hover { text-decoration: underline; }
 .post-card {
   display: block;
   background: var(--surface);

@@ -3,6 +3,13 @@ import { notFound } from 'next/navigation';
 import { getAllSlugs, getPost, getPostMeta, getRelatedPosts } from '@/lib/posts';
 import AdSlot from '@/components/AdSlot';
 import JsonLd from '@/components/JsonLd';
+import { SITE } from '@/lib/site';
+
+const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+function formatMonthYear(d) {
+  const m = /^(\d{4})-(\d{2})/.exec(String(d));
+  return m ? `${MONTHS[Number(m[2]) - 1]} ${m[1]}` : d;
+}
 
 // 빌드 시 모든 글을 정적 페이지로 생성 (SEO 최적)
 export function generateStaticParams() {
@@ -48,7 +55,10 @@ export default function PostPage({ params }) {
       <header className="article-header">
         <span className="post-cat">{post.category}</span>
         <h1>{post.title}</h1>
-        {post.date && <p className="meta">{post.date}</p>}
+        <p className="article-byline">
+          Reviewed &amp; edited by <Link href="/editorial-policy">Mira, Editor at {SITE.name}</Link>
+          {post.date && <> · Last updated {formatMonthYear(post.date)}</>}
+        </p>
       </header>
 
       {/* 답변형 In short(AI 인용·리치결과 신호). tldr 없으면 description 폴백 */}
@@ -113,6 +123,18 @@ export default function PostPage({ params }) {
       )}
 
       <AdSlot label="본문 하단 광고" />
+
+      <aside className="author-box">
+        <span className="author-avatar" aria-hidden="true">🌙</span>
+        <div>
+          <p className="author-name">Mira · Editor at {SITE.name}</p>
+          <p className="author-bio">
+            Guides here start from traditional interpretations, are drafted with AI assistance, and
+            are reviewed and edited for clarity and responsible wording.{' '}
+            <Link href="/editorial-policy">How we write these →</Link>
+          </p>
+        </div>
+      </aside>
 
       <footer className="article-footer">
         <p>This content is for entertainment and reflection. Take what resonates and make your own decisions.</p>

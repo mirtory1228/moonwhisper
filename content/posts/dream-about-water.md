@@ -51,4 +51,18 @@ Across many traditions, water carries meanings of cleansing, renewal, and the fl
 
 Ask yourself: What emotions have I been carrying lately, and are they calm or churning? Is there a feeling rising faster than I can handle? Is something below the surface I haven't looked at clearly? Water dreams invite you to check in with your emotional life honestly — to notice whether you're floating, swimming, or quietly going under, and to respond with the care you'd offer anyone caught in the current.
 
+## Water vs. Drowning: Reading the Difference
+
+Water and drowning often show up in the same dream, but they carry different weight, and the line between them is control. Water itself — a lake, rain, a running tap, a river you're swimming in — is emotion in motion, and it can be neutral or even pleasant. Drowning is what happens when that emotion stops feeling survivable. A few situational reads:
+
+- **Swimming steadily** — You're actively working through a feeling and staying afloat; effort, but not danger.
+- **Treading water, exhausted** — Coping is possible but draining. You're holding on rather than moving forward.
+- **Going under** — A stronger cue that you may be genuinely overextended, not just stressed.
+
+The same distinction separates a **wave you brace for** (anticipation of something not yet arrived) from a **flood already in the room** (overwhelm that has already spilled into daily life). Notice which one your dream is closer to — it changes the read.
+
+## Water and the Unconscious
+
+In the tradition of depth psychology, water is one of the most common symbols of the unconscious mind — everything you feel but haven't fully brought into daylight. Carl Jung often read deep bodies of water as the deeper psyche, which is part of why the surface can stand for conscious feeling while the depths hint at what's stored below awareness. A plainer framing points the same way: sleep is partly when the mind sorts through the day's emotions, so water may simply be the shape unprocessed feeling takes as it moves. Either lens draws your attention away from predicting the future and toward what the water is showing you about now.
+
 *Dreams are for reflection, not prediction — notice how the dream made you feel.*

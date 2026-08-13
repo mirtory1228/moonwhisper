@@ -69,6 +69,7 @@ export default function RootLayout({ children }) {
         <footer className="site-footer">
           <nav className="footer-nav">
             <Link href="/about">About</Link>
+            <Link href="/editorial-policy">Editorial Policy</Link>
             <Link href="/privacy">Privacy</Link>
             <Link href="/contact">Contact</Link>
           </nav>

@@ -51,4 +51,16 @@ If you're seeing 1111, it may mean your twin flame is near, thinking of you, or 
 
 When 1111 appears, stop for a moment and make it count. Take a breath, focus on what you genuinely want, and picture it clearly. This is your invitation to plant an intention. Then keep your thoughts positive throughout the day, since they carry extra power now. Watch for signs, trust your alignment, and take one inspired action toward the life you're dreaming of.
 
+## 1111 vs. 111: Telling Them Apart
+
+People often lump these together, but the count of ones changes the flavor. In numerology tradition, the single digit one carries the meaning of initiative, independence, and a clean slate — so 111 tends to read as a gentle nudge that a new door is opening and your thoughts are beginning to take shape. Four ones intensify that: 1111 is usually felt as the fuller, more urgent version — the threshold itself rather than the approach to it. A rough way to hold the difference: 111 says *something is starting to form*, while 1111 says *you're standing right at the doorway, so choose where you point your attention now.* Neither predicts an outcome; both simply ask you to notice what you're already reaching for.
+
+## Ask Yourself When 1111 Appears
+
+The meaning shifts with the feeling in the moment, so context matters more than the number itself. If it catches you mid-daydream, it's often highlighting a desire you keep circling. If it lands during a wave of anxiety, it may be spotlighting a worry that's quietly running the show. If you notice it right after a decision, treat it as a cue to check whether that choice actually matches what you want. A few honest questions:
+
+- What was I thinking about in the exact second I noticed it?
+- Is my attention on something I want, or something I'm afraid of?
+- What is one small, real step I could take toward that today?
+
 *Angel numbers are for reflection and entertainment — take what resonates.*
