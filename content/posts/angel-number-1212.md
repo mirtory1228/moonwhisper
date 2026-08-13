@@ -39,9 +39,9 @@ When it comes to money and career, 1212 signals steady progress toward your goal
 
 1212 also nudges you to stay positive about your professional path. Doubt can stall progress, but an optimistic, aligned mindset keeps the momentum flowing. If you've been considering a new direction, this number supports taking confident, balanced steps toward it.
 
-## Where I've seen 1212 land
+## Where 1212 tends to land
 
-Where 1212 has landed for me is squarely on the impatience. I tend to want proof that effort is working long before I've actually given it time to, and this is the number that seems to surface in exactly those stretches — mid-climb, results not visible yet, doubt whispering that I picked the wrong path. Nothing about 1212 ever sped things up for me. What it did was make me a little more willing to keep going through the unglamorous middle, which is honestly where most things are quietly won or lost.
+For many people, 1212 lands squarely on impatience. It's common to want proof that effort is working long before there's been time for it to, and this is the number that seems to surface in exactly those stretches — mid-climb, results not visible yet, doubt whispering that maybe the wrong path was chosen. 1212 doesn't speed anything up. What it tends to do is make you a little more willing to keep going through the unglamorous middle, which is honestly where most things are quietly won or lost. Worth asking yourself: where are you demanding proof too early?
 
 ## 1212 and Twin Flames
 

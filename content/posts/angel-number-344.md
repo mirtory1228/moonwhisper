@@ -15,7 +15,7 @@ faq:
 
 344 is the pep talk you get halfway up the hill, when your legs are burning and you can't see the top yet. It's not a number about beginnings or endings — it's about the messy, unglamorous middle, and whether you'll keep going.
 
-I think of 344 as the number that showed up during the least dramatic, most important stretch of a goal I almost quit. Nothing exciting was happening. I was just doing the reps and wondering if any of it mattered. 344 kept appearing — a clock, a gate number, a line total — and while I don't believe it changed my odds, it did keep reframing the same thought: *the boring part is the part that's working.* I stayed with it. Two months later the results finally showed. The number didn't do that; persistence did. But 344 was a decent companion for persistence.
+A common pattern is that 344 seems to surface during the least dramatic, most important stretch of a goal — the point where many people almost quit. Nothing exciting is happening. You're just doing the reps and wondering if any of it matters. When 344 keeps appearing — a clock, a gate number, a line total — it doesn't change the odds, but it can keep reframing the same thought: *the boring part is the part that's working.* Numbers don't produce results; persistence does. Still, a repeating number that catches your eye can be a decent companion for persistence — a small nudge to stay with the work a little longer.
 
 ## What 344 means
 

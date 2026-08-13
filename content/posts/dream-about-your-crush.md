@@ -15,7 +15,7 @@ faq:
 
 Let's be honest about why you're here: you dreamed about your crush and you want to know if it *means something*. The gentle truth is that it means a lot — just about you, not about them. A crush dream is one of the clearest mirrors your mind makes.
 
-I'll admit I've fallen for the trap myself — waking up convinced a dream was some kind of sign, half-tempted to read into a text differently because of it. What I eventually noticed is that these dreams reliably spiked when I was *thinking* about the person the most, not when anything real had shifted between us. The dream tracked my attention, not their feelings. Once I saw that, they got a lot less confusing (and a little less thrilling, honestly).
+It's a common trap — waking up convinced a dream was some kind of sign, half-tempted to read into a text differently because of it. Here's the pattern worth naming: these dreams reliably spike when someone is *thinking* about the person the most, not when anything real has shifted between them. The dream tracks your attention, not their feelings. Once you see that, crush dreams get a lot less confusing (and, honestly, a little less thrilling).
 
 ## What crush dreams usually mean
 

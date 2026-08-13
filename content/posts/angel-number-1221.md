@@ -15,7 +15,7 @@ faq:
 
 There's something quietly magical about 1221. Read it forward or backward and it's the same — a mirror. When this palindrome keeps appearing, the universe is reflecting something back to you, and it's worth paying attention.
 
-Before the meanings, a confession that fits this particular number: 1221 is a mirror, and mirrors are exactly the thing I tend to dodge. In the lopsided stretches of my life — a friendship I kept over-giving to, a bad mood I kept pinning on everyone but myself — the honest move was always to look at my own half of the equation rather than theirs. I don't think 1221 restores balance on its own; it just turns the reflection back toward me, and more often than not I already know what it's showing.
+Before the meanings, a framing that fits this particular number: 1221 is a mirror, and mirrors are exactly the thing most of us tend to dodge. In the lopsided stretches of life — a friendship where one person keeps over-giving, a bad mood that gets pinned on everyone but ourselves — the honest move is usually to look at your own half of the equation rather than the other person's. 1221 doesn't restore balance on its own; it just turns the reflection back toward you, and more often than not you already sense what it's showing. Here's a question worth sitting with: which side of the scale have you been avoiding?
 
 ## What 1221 Means
 

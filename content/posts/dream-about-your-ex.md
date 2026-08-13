@@ -36,9 +36,9 @@ Pay attention to how you felt. Longing may reveal a need the relationship once m
 
 Ex dreams frequently surface during change — a new relationship, a lonely stretch, or a season of reflection. Your mind revisits the past to help you understand your present.
 
-## A personal note on the ex dream
+## A useful reframe for the ex dream
 
-The thing that finally made these dreams make sense to me was realizing they almost never featured the ex I'd actually want back. It was usually someone from years earlier, someone I genuinely didn't miss — and the dream would show up right when I was lonely, or freshly unsure of myself in a new relationship. It took me embarrassingly long to see it wasn't about him at all. It was about a feeling I'd had back then that I was quietly missing now, and my mind just grabbed the nearest familiar face to talk to me about it. So I've learned not to read these as some cosmic signal about him. They're a loose thread in me, asking to be noticed.
+Here's a pattern worth naming: these dreams often don't feature the ex someone would actually want back. Frequently it's a partner from years earlier, someone the dreamer genuinely doesn't miss — and the dream tends to surface right during loneliness, or a wobble of self-doubt in a new relationship. That mismatch is the clue. It's rarely about the person at all. More often it's about a feeling from back then that's quietly missing now, and the mind simply reaches for the nearest familiar face to raise it. Read this way, an ex dream isn't a cosmic signal about them. It's a loose thread in you, asking to be noticed — which is a far more useful thing to act on.
 
 ## What to Reflect On
 

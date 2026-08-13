@@ -15,7 +15,7 @@ faq:
 
 Few dreams feel as vivid and physical as dreaming you're giving birth. Even people who have never been pregnant, and never plan to be, sometimes wake from these dreams shaken and moved. That's a strong hint that the dream isn't really about biology. It's about the enormous, effortful act of bringing something new into the world, whatever that something happens to be for you.
 
-I had one of these the month before I left a stable job to start something of my own. In the dream I was giving birth, exhausted and a little scared, and then holding this small new thing with total relief. I woke up and lay there for a while. I wasn't pregnant and wasn't trying to be. What I was doing was labouring, in the plainer sense, over a decision that felt like it might define the next chapter. The dream gave that feeling a body.
+A common pattern is for one of these dreams to surface in the weeks before a big leap, such as leaving a stable job to start something of your own. The dream might run its full arc: giving birth while exhausted and a little scared, then holding the small new thing with total relief. Many people wake and lie there for a while, not pregnant and not trying to be. What they're doing is labouring, in the plainer sense, over a decision that feels like it might define the next chapter. The dream gives that feeling a body.
 
 ## What giving birth dreams usually mean
 

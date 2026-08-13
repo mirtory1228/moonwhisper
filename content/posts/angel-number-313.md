@@ -15,7 +15,7 @@ faq:
 
 Some angel numbers feel like a warning. 313 feels like a friend grabbing your shoulder and saying, "You've got this, and you're not doing it alone." If it keeps popping up, you're being nudged toward optimism, self-expression, and the quiet support around you.
 
-A quick personal aside before the meanings. The line in 313 I keep coming back to isn't the creativity one — it's the reminder that support is there if you'll reach for it. I'm stubbornly bad at asking for help; I'll white-knuckle a problem alone long past the point it makes any sense, mostly out of some misplaced pride. The handful of times I finally reached out, the thing I'd been dreading for days took twenty minutes with another person in the room. So that's the 313 nudge I'd actually pass on: the optimism is nice, but the real move is letting someone in.
+A quick framing before the meanings. The line in 313 worth sitting with isn't the creativity one — it's the reminder that support is there if you'll reach for it. Many people are stubbornly bad at asking for help; it's common to white-knuckle a problem alone long past the point it makes any sense, mostly out of some misplaced pride. And it's a familiar pattern that the thing you've been dreading for days often takes twenty minutes once another person is in the room. So that's the 313 nudge worth passing on: the optimism is nice, but the real move is letting someone in. Ask yourself honestly — what's the one thing you've been carrying alone that you could hand to someone this week?
 
 ## What 313 Really Means
 

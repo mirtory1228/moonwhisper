@@ -15,7 +15,7 @@ faq:
 
 If the clock keeps landing on 1:11, or you spot 111 on receipts, license plates, and phone screens, you're not imagining things. Plenty of people notice this pattern right as life is about to shift. Here's a warm, grounded look at what 111 tends to mean and how to work with it.
 
-I'll be honest: I used to roll my eyes at number synchronicities. What changed my mind wasn't anything mystical — it was noticing that 111 seemed to catch my eye during exactly the weeks I was dodging a decision. The number never predicted anything. It just made me pause long enough to admit what I already knew I wanted. So that's the lens I'd offer for everything below: treat 111 less as a prophecy and more as a well-timed tap on the shoulder.
+One honest framing before we dive in: 111 isn't a prophecy, and reading it that way tends to create more anxiety than clarity. It's far more useful as a well-timed tap on the shoulder. Many people notice that repeating numbers seem to catch their eye during exactly the weeks they're avoiding a decision — not because the number predicts anything, but because it makes you pause long enough to admit what you may already know you want. That's the lens to carry through everything below: treat 111 less as a forecast and more as a prompt to pay attention.
 
 ## What 111 means
 

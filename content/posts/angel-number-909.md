@@ -15,7 +15,7 @@ faq:
 
 909 has a bittersweet quality. It usually arrives at the end of something — and endings can ache — but its real message is about the space that opens up afterward. This number is here to help you close a door so you can finally see the one that's opening.
 
-A bit of personal honesty up front: endings are the thing I'm worst at, so 909 is a number I've had a complicated relationship with. It never told me anything I didn't secretly already know — it just kept showing up while I clung to a chapter that was clearly finished, as if repetition could shame me into letting go. It couldn't, of course, but it did make the clinging harder to pretend away, and eventually that was enough. So I'd read everything below as a companion to a decision you may have already made, not a prophecy about one.
+One honest framing up front: endings are the thing most of us are worst at, and 909 is a number people tend to have a complicated relationship with for exactly that reason. It rarely tells you anything you didn't already suspect — a common pattern is that it keeps surfacing while someone clings to a chapter that's clearly finished, as if repetition could shame them into letting go. It can't, of course, but it does make the clinging harder to pretend away, and often that's enough. So it's worth reading everything below as a companion to a decision you may have already made, not a prophecy about one.
 
 ## What 909 really means
 

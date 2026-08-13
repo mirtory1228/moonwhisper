@@ -15,7 +15,7 @@ faq:
 
 A ghost in a dream sits in a strange emotional register — not quite fear, not quite sadness, more like a chill of recognition. That's fitting, because ghosts almost always stand for something that isn't fully gone: a memory, a relationship, a feeling you thought you'd buried but hadn't.
 
-I had a run of ghost dreams after a falling-out I'd never actually addressed — I'd just let the person fade out of my life and told myself it was resolved. It wasn't. In the dreams the figure was never threatening, just *there*, watching, unfinished. When I finally admitted to myself that I still carried something about it, the dreams stopped. That's the pattern with ghosts: they don't want to scare you, they want to be acknowledged.
+A common pattern is a run of ghost dreams after a falling-out someone never actually addressed — the kind where you let a person fade out of your life and tell yourself it's resolved when it isn't. In these dreams the figure is often not threatening, just *there*, watching, unfinished. Many people find the dreams ease once they admit they still carry something about it. That tends to be the pattern with ghosts: they don't want to scare you, they want to be acknowledged. Ask yourself honestly — is there someone or something you've quietly filed as "settled" that isn't?
 
 ## What ghost dreams usually mean
 

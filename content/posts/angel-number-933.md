@@ -15,7 +15,7 @@ faq:
 
 933 has a particular flavor: it's the number of the doorway you're standing in, one foot in the room you're leaving and one in the room you haven't fully entered yet. If you've been feeling that in-between ache lately, this number won't surprise you.
 
-I remember a season where 933 seemed to follow me — clock, order numbers, a page count. At the time I was clinging to a project that was clearly over, mostly because I'd built my identity around it. What 933 did wasn't mystical; it just kept nudging the question I was avoiding: *what are you making room for by refusing to let this end?* When I finally closed that chapter, the thing I'd been "too busy" to start had space to exist. I don't credit the number with magic. I credit it with not letting me look away.
+A common pattern is this: 933 starts showing up — clock, order numbers, a page count — during a season when someone is clinging to a project or role that's clearly over, often because they've built an identity around it. The number doesn't do anything mystical; it just keeps surfacing the question that's easy to avoid: *what are you making room for by refusing to let this end?* People who finally close that chapter tend to find the thing they'd been "too busy" to start suddenly has space to exist. The number isn't magic. Its usefulness is that it makes the avoided question harder to look away from.
 
 ## What 933 means
 

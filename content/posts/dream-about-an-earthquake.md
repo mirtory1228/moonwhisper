@@ -13,7 +13,7 @@ faq:
     a: "Surviving or steadying yourself during a dream earthquake often reflects your resilience and your ability to stay grounded while your circumstances change."
 ---
 
-I used to think earthquake dreams were just my brain recycling the news. What made me reconsider was realizing they clustered around the times something I'd assumed was permanent quietly started to move under me — a relationship I'd stopped questioning, a job I thought was safe. The dream never predicted the change. It just registered that I'd already felt the first tremor and hadn't admitted it to myself yet. That's how I'd invite you to read yours.
+It's tempting to write earthquake dreams off as the brain recycling the news. But a more useful pattern often shows up: they tend to cluster around the times something you'd assumed was permanent quietly starts to move under you — a relationship you'd stopped questioning, a job you thought was safe. The dream rarely predicts the change. More often it registers a first tremor you've already felt but haven't fully admitted to yourself yet. That's a grounded way to read yours.
 
 ## What It Means to Dream About an Earthquake
 

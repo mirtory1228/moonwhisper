@@ -1,18 +1,8 @@
-// 데스크톱 전용 장식 — 좌우 여백을 별자리·타로카드·12지신 모티브로 채운다.
+// 데스크톱 전용 장식 — 좌우 여백을 별자리·12지신 모티브로 채운다.
 // 서버 컴포넌트(정적 빌드 시 한 번만 렌더) + pointer-events:none, aria-hidden.
+// (타로 카드 이미지 장식은 제거: /cards/*.jpg 에셋이 없어 404 발생했음.)
 
 import { Constellation } from './ZodiacConstellations';
-
-const LEFT_CARDS = [
-  { id: 'major-00', top: '6%', rot: -9 },
-  { id: 'major-08', top: '34%', rot: 7 },
-  { id: 'major-13', top: '62%', rot: -6 },
-];
-const RIGHT_CARDS = [
-  { id: 'major-06', top: '14%', rot: 8 },
-  { id: 'major-09', top: '42%', rot: -7 },
-  { id: 'major-17', top: '70%', rot: 6 },
-];
 
 const LEFT_ZODIAC = [
   { sign: 'aries', top: '18%' },
@@ -70,15 +60,6 @@ export default function SideDecor() {
     <>
       <aside className="side-decor left" aria-hidden="true">
         <Stars points={STARS_LEFT} />
-        {LEFT_CARDS.map((c) => (
-          <img
-            key={c.id}
-            src={`/cards/${c.id}.jpg`}
-            alt=""
-            className="deco-card"
-            style={{ top: c.top, transform: `translateX(-50%) rotate(${c.rot}deg)` }}
-          />
-        ))}
         {LEFT_ZODIAC.map((z, i) => (
           <div key={i} className="deco-zodiac" style={{ top: z.top }}>
             <Constellation sign={z.sign} />
@@ -91,15 +72,6 @@ export default function SideDecor() {
 
       <aside className="side-decor right" aria-hidden="true">
         <Stars points={STARS_RIGHT} />
-        {RIGHT_CARDS.map((c) => (
-          <img
-            key={c.id}
-            src={`/cards/${c.id}.jpg`}
-            alt=""
-            className="deco-card"
-            style={{ top: c.top, transform: `translateX(-50%) rotate(${c.rot}deg)` }}
-          />
-        ))}
         {RIGHT_ZODIAC.map((z, i) => (
           <div key={i} className="deco-zodiac" style={{ top: z.top }}>
             <Constellation sign={z.sign} />

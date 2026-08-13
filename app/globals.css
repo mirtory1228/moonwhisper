@@ -749,6 +749,14 @@ a { color: inherit; text-decoration: none; }
 }
 
 .post-list { list-style: none; padding: 0; margin: 20px 0 0; display: grid; gap: 16px; }
+.load-more-wrap { display: flex; justify-content: center; margin: 24px 0 8px; }
+.load-more {
+  background: rgba(107, 208, 176, 0.10); color: var(--jade);
+  border: 1px solid rgba(107, 208, 176, 0.35); border-radius: 999px;
+  padding: 11px 26px; font-size: 15px; font-weight: 600; cursor: pointer;
+  transition: border-color 0.2s, background 0.2s;
+}
+.load-more:hover { background: rgba(107, 208, 176, 0.18); border-color: rgba(107, 208, 176, 0.6); }
 .post-card {
   display: block;
   background: var(--surface);

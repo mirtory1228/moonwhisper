@@ -3,6 +3,8 @@ import CategoryTabs from '@/components/CategoryTabs';
 import { getAllPosts } from '@/lib/posts';
 import { SITE } from '@/lib/site';
 
+export const metadata = { alternates: { canonical: '/' } };
+
 export default function HomePage() {
   const posts = getAllPosts();
   return (

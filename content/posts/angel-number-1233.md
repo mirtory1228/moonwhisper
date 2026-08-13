@@ -15,7 +15,7 @@ faq:
 
 There's something reassuring about 1233. Where some numbers announce dramatic upheaval, this one is the sound of steady climbing — one step, then the next, then the next. If it keeps appearing, the message is patient and encouraging: you're building something in the right order, and the growth you can't fully see yet is real. Don't quit the staircase halfway up.
 
-I noticed 1233 while I was learning a skill that felt agonizingly slow — the kind where you practice for weeks and swear nothing is improving. It was 12:33 on the clock during a late practice session, the page number in a book I picked up when I nearly gave up, and a confirmation code the day I finally landed my first small win with it. Each time it felt like a tap on the shoulder saying, "You're further along than you think — keep stacking the days."
+A common pattern is that people notice 1233 while learning a skill that feels agonizingly slow — the kind where you practice for weeks and swear nothing is improving. It shows up as 12:33 on the clock during a late practice session, as a page number in a book someone picks up when they nearly give up, or as a confirmation code on the day a first small win finally lands. Each time it tends to read like a tap on the shoulder saying, "You're further along than you think — keep stacking the days."
 
 ## What 1233 means
 

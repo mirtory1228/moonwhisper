@@ -15,7 +15,7 @@ faq:
 
 Birds carry a lot in the language of dreams. They move easily between the ground and the sky, which is exactly the kind of freedom we tend to long for when something in waking life feels stuck or heavy. A bird dream often arrives when a part of you is thinking about rising above a situation, whether you've named that wish out loud or not.
 
-I recall a winter when I felt genuinely boxed in, same commute, same walls, a routine that had gone grey. I started dreaming of a bird at my window, sometimes tapping the glass, sometimes just watching me. I never let it in, in the dream. Waking up, I realized I'd been treating my own restlessness the same way, noticing it at the edge of things but never opening the window to actually deal with it. That small recurring image nudged me to finally plan a change. Not because it foretold anything, but because it named a feeling I'd been avoiding.
+Here's a common pattern worth naming. Someone feels boxed in — same commute, same walls, a routine gone grey — and starts dreaming of a bird at the window, sometimes tapping the glass, sometimes just watching. In the dream they never let it in. It's easy to treat waking restlessness the same way: noticing it at the edge of things but never opening the window to actually deal with it. Read like this, a recurring bird dream doesn't foretell anything — it names a feeling you may have been avoiding, and naming it is often the first nudge toward finally planning a change.
 
 ## What bird dreams usually mean
 

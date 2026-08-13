@@ -36,7 +36,7 @@ How you *felt* in the dream matters more than the plot. Did the cat's presence c
 
 Pay attention to the relationship, too. Were you caring for the cat, chasing it, or being avoided by it? Cats don't perform on command, and a cat dream often shows up when some part of your life is asking to be respected on its own terms rather than controlled.
 
-The cat that recurs for me is one I keep trying to coax over that simply will not come, and it tends to appear when I've been overriding a gut feeling for weeks. I've learned not to read it as an omen but as a nudge from the part of me I keep talking out of things. More often than not, the dream shows up right after I've ignored an instinct I secretly knew was right all along.
+A common version of this dream is a cat you keep trying to coax over that simply will not come, and it often surfaces during stretches when you've been overriding a gut feeling for a while. Rather than an omen, it's worth reading as a nudge from the part of you that keeps getting talked out of things. Many people notice the dream tends to show up right after they've ignored an instinct they secretly suspected was right all along.
 
 ## What to Reflect On
 

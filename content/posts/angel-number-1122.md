@@ -39,7 +39,7 @@ When it comes to money and career, 1122 is a green light for turning ambition in
 
 The key word is *action*. 1122 rewards people who pair their vision with a plan: setting goals, showing up consistently, and building brick by brick. Financial growth here tends to come through effort you actually enjoy, so pay attention to the work that lights you up. That's usually where your "master builder" energy wants to go.
 
-If I'm honest about my own pattern, 1122 is the number I most need and most resist. I'm good at the vision part — the notebook full of plans — and historically terrible at pouring the first bit of foundation. The projects of mine that actually went somewhere weren't born in the bursts when I felt most inspired; they came from the dull weeks I showed up and laid one brick anyway. That gap between dreaming and building is exactly where I read 1122 as pointing.
+Here's a pattern worth naming: for a lot of people, 1122 is the number they most need and most resist. The vision part comes easily — the notebook full of plans — while pouring the first bit of foundation is where things stall. It's common to find that the projects that actually go somewhere aren't born in the bursts of peak inspiration; they come from the dull weeks someone shows up and lays one brick anyway. That gap between dreaming and building is exactly where 1122 tends to point.
 
 ## 1122 and Twin Flames
 

@@ -1,6 +1,7 @@
 import TarotReading from '@/components/TarotReading';
 
 export const metadata = {
+  alternates: { canonical: '/tarot' },
   title: 'Free Tarot Reading — Pick a Card',
   description: 'Shuffle the deck, fan out all 78 cards, and pick your own — a free interactive tarot reading with a daily card or a past, present & future spread.',
   keywords: ['free tarot reading', 'pick a card', 'tarot online', 'daily tarot', 'past present future tarot', 'three card tarot'],

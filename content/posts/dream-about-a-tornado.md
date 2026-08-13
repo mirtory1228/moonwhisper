@@ -38,7 +38,7 @@ Notice what the tornado threatened, too. A funnel heading for your house, your f
 
 ## What This Dream Tends to Really Be About
 
-When tornadoes show up in my own sleep, it's never subtle and it's never actually about the weather. They arrive in the stretches when too much is happening at once and I've been insisting to everyone, myself included, that I'm handling it fine. The funnel is basically my stress made visible — the stuff I've been outrunning in daylight, catching up with me at night. I've learned to treat one of these dreams as a blunt little check-engine light: something's spinning that I haven't slowed down long enough to name. Nine times out of ten, naming it is what makes it quiet down.
+A common pattern is that tornado dreams are rarely subtle and rarely actually about the weather. They tend to arrive in the stretches when too much is happening at once and a person has been insisting to everyone, themselves included, that they're handling it fine. The funnel works as stress made visible — the pressure outrun in daylight, catching up at night. It can help to treat one of these dreams as a blunt little check-engine light: something's spinning that hasn't been slowed down long enough to name. Often, naming it is what makes it quiet down. What has been feeling like too much lately?
 
 ## What to Reflect On
 

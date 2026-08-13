@@ -36,9 +36,9 @@ With funeral dreams, the emotion is the whole message. Deep grief usually points
 
 Notice who or what was being laid to rest. That "who" is frequently a stand-in for a role, a relationship dynamic, or a habit rather than a real person. The dream is inviting you to name what has ended so you can grieve it honestly and move forward.
 
-## A Personal Take
+## A Pattern Worth Naming
 
-I've had exactly one funeral dream that truly stuck with me, and it wasn't for anyone who had died. Looking back, it landed right as I was finally letting go of a friendship I'd been pretending was still alive. The grief felt real because the loss was real — I just hadn't given myself permission to mourn something that technically no one had lost. That's what these dreams have done for me: they let me feel an ending I've been too busy or too proud to sit with. If you woke up heavy, it might be worth asking what you've already ended but haven't let yourself grieve.
+Here's a scenario that comes up again and again: the funeral in the dream isn't for anyone who has died, and it lands right as someone is finally letting go of a relationship they'd been pretending was still alive. The grief feels real because the loss is real — it's just that no one has given themselves permission to mourn something that technically no one has lost. That's the quiet work these dreams often do: they let you feel an ending you've been too busy or too proud to sit with. If you woke up heavy, it might be worth asking what you've already ended but haven't let yourself grieve.
 
 ## What to Reflect On
 

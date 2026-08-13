@@ -15,7 +15,7 @@ faq:
 
 Waking up from a dream about death can leave your heart pounding. Take a breath — this is one of the most common dreams there is, and in the Western dream-dictionary tradition, it is almost never literal. Death in dreams is the language of change.
 
-I'll be honest: the first time I dreamed of my own death I spent the whole morning rattled. Years later I can see it landed the week I walked away from a career I'd built my entire identity around — the old me really was ending, and my sleep said it more bluntly than I could. None of my death dreams have ever turned out to be about anyone dying. They've been about thresholds I was standing on and hadn't fully admitted I was crossing. That's the reading I'd reach for before any darker one.
+One honest framing: a dream of your own death can leave you rattled all morning, yet these dreams tend to cluster around the very weeks people are ending something — walking away from a career they'd built an identity around, closing a chapter the old self was outgrowing. It's a common pattern that sleep says the shift more bluntly than the waking mind will admit. In this tradition, death dreams almost never turn out to be about anyone dying. They tend to be about thresholds a person is standing on and hasn't fully owned crossing yet. That's the reading worth reaching for before any darker one.
 
 ## What a Death Dream Usually Means
 

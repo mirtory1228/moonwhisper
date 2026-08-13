@@ -27,7 +27,7 @@ The message is steady and encouraging: keep laying the bricks. What you're build
 
 It can also appear as reassurance during uncertainty. When the ground feels shaky, 404 reminds you that you're more protected and more capable than fear suggests.
 
-For what it's worth, 404 is the one number in this list I've come to respect the most. The seasons I noticed it were never dramatic — they were the tedious ones where I was rebuilding a habit or slowly rebuilding a savings buffer with nothing yet to show for it. I don't think the number was doing anything on its own, but it did keep interrupting my urge to quit early. That's the trick I'd pass along: the boring, brick-by-brick stretches are exactly the ones worth not abandoning.
+Here's a pattern worth naming: for many people, 404 tends to surface during the least dramatic seasons — the tedious ones spent rebuilding a habit or slowly rebuilding a savings buffer with nothing yet to show for it. The number likely isn't doing anything on its own, but noticing it can interrupt the urge to quit early. That's the useful takeaway to hold onto: the boring, brick-by-brick stretches are exactly the ones worth not abandoning.
 
 ## Love and relationships
 

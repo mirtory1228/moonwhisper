@@ -13,7 +13,7 @@ faq:
     a: "Reaching the surface or being rescued often reflects your ability to cope, ask for help, or come up for air after a difficult stretch."
 ---
 
-I've only ever had drowning dreams during the most stretched-thin seasons of my life — the month I was working two jobs, the weeks after a breakup when I couldn't seem to catch up on anything. They never once warned me about actual water. What they did was hand me a picture for a feeling I'd been refusing to say out loud: that I was quietly going under. The dreams where I finally broke the surface, gasping, tended to come right as I started asking for help. So that's how I read them now — not as fear, but as my own mind admitting I'm carrying too much.
+A common pattern people describe is that drowning dreams show up during the most stretched-thin seasons — the month of working two jobs, the weeks after a breakup when nothing seems to catch up. They rarely warn about actual water. More often they hand you a picture for a feeling you've been refusing to say out loud: that you're quietly going under. And the versions where you finally break the surface, gasping, tend to arrive right around the time you start asking for help. That's a more useful way to read them — not as fear, but as the mind admitting the load has gotten too heavy.
 
 ## What It Means to Dream About Drowning
 

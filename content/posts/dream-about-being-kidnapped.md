@@ -15,7 +15,7 @@ faq:
 
 Being taken against your will, unable to run, unable to shout — a dream about being kidnapped leaves a specific kind of residue. It's the feeling of having no control, of being carried somewhere you didn't choose. And that, far more than any literal fear of abduction, is what the dream is usually pointing at: a corner of your life where your choices feel like they aren't yours.
 
-Mine came during a month when I'd agreed to too much — a project I didn't want, plans I hadn't picked, a schedule that ran me instead of the other way around. In the dream I was bundled into a car and I remember thinking, with strange clarity, "I let this happen." I woke up and realized how accurately that summed up my waking weeks. Nobody had forced me. I'd simply stopped saying no, and my mind staged the consequence as a kidnapping.
+A common pattern is that these dreams surface during a stretch of having agreed to too much — a project you didn't want, plans you didn't pick, a schedule that runs you instead of the other way around. Many people describe a moment of strange clarity mid-dream — a thought like "I let this happen" — that turns out to sum up their waking weeks with uncomfortable accuracy. Often nobody forced anything; the person simply stopped saying no, and the mind staged the consequence as a kidnapping. Worth asking yourself: where have you quietly handed over the wheel?
 
 ## What being kidnapped dreams usually mean
 

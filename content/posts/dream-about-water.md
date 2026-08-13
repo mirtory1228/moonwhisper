@@ -41,7 +41,7 @@ Water's depth matters too: the surface often represents your conscious feelings,
 
 The temperature and motion of the water are your clues. Warm, gentle water often reflects comfort and safety, while cold or violent water can mirror fear or shock. Ask what you felt in the dream: soothed, afraid, or swept away? Water rarely lies about emotion — it's a direct mirror. If the water was troubled, chances are something inside you is too, whether or not you've said it out loud.
 
-What convinced me of that was noticing how well my own water dreams matched my week before I'd consciously admitted anything. Dreams of a flat, glassy lake tended to come during the settled stretches when I actually felt okay. And the murky, can't-see-the-bottom water always showed up when I had a feeling I was avoiding looking at directly — usually something I hadn't said out loud to anyone yet. I've come to trust the water as a more honest read on my mood than my own daytime "I'm fine." When it's churning in my sleep, it's worth asking what I've been quietly stirring up.
+A common pattern many people notice is how closely their water dreams track the week before they've consciously admitted anything. Dreams of a flat, glassy lake often turn up during the settled stretches when things genuinely feel okay. And murky, can't-see-the-bottom water tends to show up when there's a feeling being avoided or looked past directly — often something not yet said out loud to anyone. It's worth treating the water as a more honest read on your mood than the daytime "I'm fine." When it's churning in your sleep, that's a cue to ask what's been quietly stirring underneath.
 
 ## Biblical and Cultural Notes
 

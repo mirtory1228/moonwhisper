@@ -15,7 +15,7 @@ faq:
 
 Let's clear the air first: if you flinched when 666 kept showing up, that's the movies talking, not the meaning. In the angel-number tradition, 666 has almost nothing to do with the ominous version you're picturing. It's one of the most misunderstood numbers there is.
 
-I say that as someone who genuinely used to get a small jolt every time a total rang up as $6.66. For a while I treated it like a warning. What actually shifted things was noticing *when* it appeared — almost always during stretches where I was spiraling about money or overthinking everything. Once I saw the pattern, 666 stopped feeling like a threat and started feeling like a mirror. It wasn't predicting doom; it was pointing at how much of my attention had drifted into worry.
+Plenty of people describe a small jolt every time a total rings up as $6.66, and for a while they treat it like a warning. What tends to shift things is noticing *when* it appears — often during stretches of spiraling about money or overthinking everything. A common pattern is this: once you see that timing, 666 stops feeling like a threat and starts feeling like a mirror. It isn't predicting doom; it's pointing at how much of your attention has drifted into worry.
 
 ## What 666 actually means
 

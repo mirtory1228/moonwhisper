@@ -15,7 +15,7 @@ faq:
 
 1144 is the number equivalent of rolling up your sleeves. It's got that spark of something new in it, but it's not a daydream number — it's a work number. When I see it, I read it as: the idea is fine, now where's the plan?
 
-There was a year I wanted to start writing seriously, and I kept "starting" — a burst of enthusiasm, three good days, then nothing. Around then 1144 kept turning up, and honestly it annoyed me, because it felt like being told the obvious. The message landed anyway: inspiration wasn't my problem; a structure was. I set a boring, unglamorous schedule and stuck to it. The number didn't build anything. But it kept pointing at the gap between wanting and building until I filled it.
+Here's a scenario worth naming, because it's a common one. Someone wants to start something seriously and keeps "starting" — a burst of enthusiasm, three good days, then nothing. Around then a number like 1144 keeps turning up, and it can feel almost annoying, like being told the obvious. But the message tends to land anyway: inspiration wasn't the problem; a structure was. A boring, unglamorous schedule, held to, is what actually moves things. The number doesn't build anything on its own. What it can do is keep pointing at the gap between wanting and building until you decide to fill it.
 
 ## What 1144 means
 

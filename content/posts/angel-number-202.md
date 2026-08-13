@@ -27,9 +27,9 @@ The core message is trust. You're being asked to keep the faith when the results
 
 It also shows up when your relationships need more balance. If you've been giving too much or too little, 202 nudges you back toward the middle.
 
-## The waiting I keep resisting
+## The waiting most people resist
 
-The waiting I keep resisting is exactly the state 202 seems to catch me in. I'm a chronic inbox-refresher — when I'm hoping for an answer, I'll check, re-check, and quietly convince myself that checking counts as making progress. It never does. Looking back, none of the outcomes I actually cared about showed up any sooner because I hovered over them; they arrived when they were ready, and the hovering only made the wait feel longer. So I've started treating 202 as a plain nudge to put the phone down and let the thing cook.
+Here's a scenario worth naming: the waiting people tend to resist is exactly the state 202 seems to catch them in. Many are chronic inbox-refreshers — when hoping for an answer, they'll check, re-check, and quietly convince themselves that checking counts as making progress. It rarely does. The outcomes that actually matter seldom show up sooner because someone hovered over them; they arrive when they're ready, and the hovering only makes the wait feel longer. A useful reframe is to treat 202 as a plain nudge to put the phone down and let the thing cook. Ask yourself: what am I refreshing that would move along fine without me watching?
 
 ## Love and relationships
 

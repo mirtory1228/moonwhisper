@@ -36,9 +36,9 @@ The feeling is the compass. Fear and disgust often point to something in your li
 
 Spider dreams also tend to appear when you feel overextended or manipulated, or when you're deep in a creative project that requires patience. Both readings are valid; the dream is helping you tell the difference.
 
-## When I've had this dream
+## When This Dream Tends to Show Up
 
-Spiders creep me out awake, so I braced for the worst the first time I dreamed of being wrapped in a web. But sitting with it, I realized it wasn't about the spider at all — it was about a friendship I'd let get complicated, where I kept saying yes to things and felt more tangled every week. The web was just the most literal picture my mind could offer for stuck. Oddly, the dreams I've had of a spider calmly spinning showed up during good stretches, usually while I was slowly building something I cared about and needed to be patient with. Same creature, opposite message — and the feeling in the dream was always the thing that told me which one it was.
+Here's a scenario worth naming, because many people describe it. If spiders unsettle you awake, dreaming of being wrapped in a web can feel like the worst omen — yet sat with, it's often not about the spider at all. A common pattern is a relationship or commitment that's quietly gotten complicated: you keep saying yes and feel more tangled every week, and the web becomes the most literal picture the mind can offer for "stuck." The opposite dream — a spider calmly spinning — tends to surface during steadier stretches, usually while someone is slowly building something they care about and needs patience for. Same creature, opposite message. Notice which emotion the dream carried, because that feeling is usually what tells you which reading fits.
 
 ## What to Reflect On
 

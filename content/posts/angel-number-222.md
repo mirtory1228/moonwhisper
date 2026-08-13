@@ -15,7 +15,7 @@ faq:
 
 When 222 keeps showing up — on the clock, on a receipt total, on the page number you happen to land on — it usually arrives during a stretch where you're waiting on something. This number has a calming message. Here's what 222 tends to mean and how to lean into it.
 
-Full disclosure before we dig in: the balance half of 222 is the part I personally flunk. My default when I care about something is to overgive — to pour everything into one relationship or one project until the rest of my life quietly tips over. The times this number has meant the most to me weren't about waiting on an outcome at all; they were the moments I realized I'd been running on empty and calling it dedication. So here's the lens I'd offer: before you read 222 as "be patient," check whether it's really asking "are you overdrawn?"
+Worth naming before we dig in: the balance half of 222 is the part many people quietly flunk. A common pattern is that when you care about something, your default is to overgive — to pour everything into one relationship or one project until the rest of your life quietly tips over. Often this number lands hardest not while you're waiting on an outcome at all, but in the moment you realize you've been running on empty and calling it dedication. So here's a lens worth trying: before you read 222 as "be patient," check whether it's really asking "are you overdrawn?"
 
 ## What 222 means
 

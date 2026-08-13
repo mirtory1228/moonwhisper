@@ -15,7 +15,7 @@ faq:
 
 You wake up with your heart pounding, maybe with your hands still clenched, sure that you just did something terrible. A dream about killing someone is one of the most unsettling images the sleeping mind produces. But before you spiral, know this: these dreams are almost never about literal violence. They are about pressure, anger, and things you have been carrying without a place to put them.
 
-I had this dream during a stretch when I was quietly furious at a manager but never said a word about it. In the dream I pushed someone off a ledge, calm and deliberate, and felt nothing until I woke up shaking. It took me a full day to connect it to how much I'd been swallowing at work. I hadn't wanted to hurt anyone — I'd wanted the situation to stop, and my mind had turned that into the most extreme image it could find.
+Here's a scenario worth naming, because it's a common one: someone is quietly furious at a boss or a partner but never says a word about it, and then dreams of pushing a person off a ledge — calm and deliberate — feeling nothing until they wake up shaking. It can take a full day to connect that image to how much has been swallowed. The point isn't a wish to hurt anyone; it's a wish for the situation to stop, and the mind reaching for the most extreme picture it can find to say so.
 
 ## What killing someone dreams usually mean
 

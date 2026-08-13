@@ -2,6 +2,7 @@ import NumerologyCalc from '@/components/NumerologyCalc';
 import { SITE } from '@/lib/site';
 
 export const metadata = {
+  alternates: { canonical: '/numerology' },
   title: 'Life Path Number Calculator — Free Numerology Reading',
   description:
     'Enter your birth date and instantly get your Life Path number with a clear, grounded meaning. A free numerology calculator covering all numbers 1–9 plus master numbers 11, 22 and 33.',

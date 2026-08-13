@@ -27,7 +27,7 @@ The message is direct: it's time to break old patterns. Whatever routines, belie
 
 It also shows up when you're clinging to the familiar out of comfort rather than genuine desire. 1155 gently pushes you to loosen your grip. The freedom you crave requires letting go of the version of your life that no longer fits.
 
-I'll say this from experience: the "clinging to comfort" part is where 1155 lands hardest for me. The changes I now count as the best ones almost never felt like opportunities at the time — they felt like disruptions I resented and tried to undo. What I've slowly learned is that my resistance tends to be a reliable sign that something real is shifting, not proof that I should slam the door. So these days I try to treat the discomfort 1155 stirs up as information rather than a warning.
+Here's a pattern worth naming: the "clinging to comfort" part is where 1155 tends to land hardest. Many people find that the changes they later count as the best ones almost never felt like opportunities at the time — they felt like disruptions to resent and undo. A useful reframe is that resistance can be a reliable sign that something real is shifting, not proof that the door should stay shut. Seen that way, the discomfort 1155 stirs up reads more as information than as a warning — and that's a distinction only you can test against your own life.
 
 ## 1155 in Love and Relationships
 

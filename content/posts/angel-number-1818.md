@@ -15,7 +15,7 @@ faq:
 
 1818 has a confident, almost expansive charge to it. Where some numbers are gentle or reflective, this one feels like momentum — like something's about to pay off. When it shows up, the theme is usually power and abundance: a new cycle where your effort starts converting into real returns.
 
-I paid attention to 1818 during a period when a side project I'd nearly abandoned suddenly started making money — small at first, then not so small. The number kept appearing right as things turned, and what struck me wasn't the "luck" of it but the mindset shift it seemed to demand. I'd been operating from scarcity, bracing for it to fail. 1818 kept nudging me to actually own the momentum, to stop shrinking, to expect more instead of apologizing for wanting it. The results followed the belief more than the other way around.
+A common pattern people describe is noticing 1818 during a stretch when something they'd nearly given up on — a side project, a career move — quietly starts to turn, small at first, then not so small. What tends to stand out isn't the "luck" of it but the mindset shift it seems to demand. It's easy to operate from scarcity, bracing for the thing to fail. 1818 reads as a nudge to actually own the momentum, to stop shrinking, to expect more instead of apologizing for wanting it. Here's a reflection worth sitting with: where are you already succeeding but still narrating it as a fluke? Often the results follow the belief more than the other way around.
 
 ## What 1818 means
 

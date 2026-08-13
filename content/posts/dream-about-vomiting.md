@@ -15,7 +15,7 @@ faq:
 
 Vomiting dreams are unpleasant enough to wake you up, but their meaning is usually more constructive than the sensation suggests. Throwing up is the body forcibly getting rid of something it can't process — and that's almost exactly what the dream tends to be about, just on an emotional level.
 
-I had one of these during a period when I was staying in a situation I knew was bad for me — a commitment I kept honoring out of guilt, even though it was quietly making me miserable. The dream was vivid and awful, and when I woke up the word that stuck was *enough.* I couldn't stomach it anymore, and my mind had made that literal. Not long after, I finally extracted myself. The dream didn't tell me anything new; it just refused to let me keep swallowing it.
+A common pattern is that these dreams surface during a stretch when someone is staying in a situation they know is bad for them — a commitment kept out of guilt, even though it's quietly making them miserable. The dream tends to be vivid and awful, and the word people wake up with is often something like *enough.* You can't stomach it anymore, and the mind makes that literal. The dream rarely delivers new information; it just refuses to let you keep swallowing what you've already decided you're done with. Notice whether that describes anything you're holding down right now.
 
 ## What vomiting dreams usually mean
 

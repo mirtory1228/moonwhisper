@@ -15,7 +15,7 @@ faq:
 
 Few dreams jolt you like finding a dead body. But despite the shock, these dreams are almost never about literal death. A dead body is what's left when something is *over* — and that's usually what your mind is processing: an ending, and your relationship to it.
 
-I had a dead-body dream during a stretch when a version of my life had clearly ended — a career path I'd outgrown — but I kept acting as if it were still viable. In the dream I kept trying to move the body somewhere out of sight, and the effort was exhausting. When I woke up, the exhaustion was the tell: I was spending enormous energy hiding the fact that something was finished. Admitting it was over was the relief. The dream had just made the corpse of it impossible to ignore.
+A common pattern is having this dream during a stretch when a version of your life has clearly ended — a career path you've outgrown, say — but you keep acting as if it were still viable. In many of these dreams the person keeps trying to move the body somewhere out of sight, and the effort feels exhausting. That exhaustion is often the tell: enormous energy goes into hiding the fact that something is finished. Here's a scenario worth naming — admitting it's over is usually the relief. The dream has simply made the corpse of it impossible to ignore.
 
 ## What dead body dreams usually mean
 

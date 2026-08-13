@@ -47,7 +47,7 @@ This number reminds twin flames that what you've each learned and healed is now 
 
 ## What I've come to think about 888
 
-I'll say plainly that I'm wary of any number that promises abundance, because that's exactly what people want to hear. But the piece of 888 I've actually found useful isn't the windfall part — it's the reciprocity part. The seasons it kept surfacing for me were ones where my give-and-take had quietly gone lopsided, usually because I was over-giving and quietly calling it virtue. Reading 888 as "let yourself receive, too" has been more honest, and more helpful, than reading it as "money is coming."
+It's worth being wary of any number that promises abundance, because that's exactly what people want to hear. But the piece of 888 that tends to hold up isn't the windfall part — it's the reciprocity part. A common pattern is that the number seems to surface during seasons when someone's give-and-take has quietly gone lopsided, often because they've been over-giving and quietly calling it virtue. Reading 888 as "let yourself receive, too" is more honest, and more useful, than reading it as "money is coming." Here's a reflection question worth answering yourself: where in your life are you giving freely but refusing to accept in return?
 
 ## What to Do Next
 

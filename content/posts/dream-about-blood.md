@@ -39,9 +39,9 @@ A few themes come up again and again:
 
 The key with blood dreams is context and feeling. Were you frightened, calm, or strangely powerful? Fear tends to point toward loss, depletion, or a wound that needs attention. A neutral or energized feeling leans toward vitality and passion. Blood is intense by nature, so the dream is usually amplifying an emotion you're already carrying — the question is which one, and where it's coming from.
 
-## A Personal Note
+## A Pattern Worth Naming
 
-The blood dreams I've had weren't gory so much as draining — a slow bleed I couldn't stop, more tiring than frightening. They've reliably shown up during the seasons I was giving too much to something that gave nothing back: a job, mostly, and once a friendship that basically ran on me. I don't think the dream predicted anything. It just put a picture to a word I'd been avoiding — depleted — and made me actually look at where all my energy was going.
+A common version of this dream isn't gory so much as draining — a slow bleed that won't stop, more tiring than frightening. Many people notice it surfacing during the seasons they're giving too much to something that gives little back: a demanding job, or a relationship that quietly runs on them. Read this way, the dream isn't predicting anything. It tends to put a picture to a word that's easy to avoid — depleted — and nudges you to actually look at where all your energy is going.
 
 ## What to Reflect On
 

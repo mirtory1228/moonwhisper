@@ -13,9 +13,9 @@ faq:
     a: "In love, 1616 favors nurturing the relationship and creating harmony at home. It's a sign to invest in emotional security and let go of anxieties that are crowding out connection."
 ---
 
-1616 has a homeward pull to it. Where some numbers push you outward toward ambition, this one turns you back toward the people and the space you actually live in. When I see it, I read it as a gentle question: *have you been tending what matters most, or just what's loudest?*
+1616 has a homeward pull to it. Where some numbers push you outward toward ambition, this one turns you back toward the people and the space you actually live in. It reads like a gentle question: *have you been tending what matters most, or just what's loudest?*
 
-I hit 1616 during a season when I was working constantly and telling myself the people close to me understood. The number kept surfacing — a clock, an order total, a street address I walked past. It didn't accuse me of anything. It just kept nudging me back toward a dinner I'd skipped, a call I'd been meaning to make. When I finally put my phone down and showed up at home properly, I realized how far I'd drifted without noticing. 1616 was the tap on the shoulder that brought me back.
+A common pattern is noticing 1616 during a season of working constantly while telling yourself the people close to you understand. The number keeps surfacing — a clock, an order total, a street address you walk past. It doesn't accuse you of anything. It just keeps nudging you back toward a dinner you skipped, a call you'd been meaning to make. Here's a reflection worth sitting with: when did you last show up at home properly, phone down, fully present? For many people, 1616 lands as exactly that tap on the shoulder — the drift happens so gradually you don't notice until something calls you back.
 
 ## What 1616 means
 

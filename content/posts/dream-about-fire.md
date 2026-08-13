@@ -36,7 +36,7 @@ Pay close attention to your feeling in the dream, because it usually tells you w
 
 It is also worth noticing whether you were watching the fire or caught inside it. Watching from a safe distance can suggest you are processing change from a place of some perspective. Being surrounded by flames tends to mirror feeling consumed by an intense situation right now.
 
-I'll admit my own fire dreams have split cleanly down that line. The cozy-fireplace ones came during rare calm stretches when I actually liked what I was building. The one I still remember vividly — a kitchen fire I couldn't put out — landed the same week I was swallowing a lot of anger I hadn't let myself say to anyone. Once I finally had the hard conversation, the burning dreams stopped. That's the pattern I trust now: for me, uncontrolled fire is almost always heat I've been holding in.
+A common pattern people describe splits cleanly along that line. Cozy-fireplace dreams tend to surface during calmer stretches, when someone actually likes what they're building. The uncontrollable kind — a kitchen fire that won't go out — often shows up in weeks heavy with anger that hasn't been said out loud. Many people notice those burning dreams ease once the hard conversation finally happens. It's a pattern worth naming: for a lot of dreamers, uncontrolled fire tracks closely with heat that's been held in.
 
 ## What to Reflect On
 

@@ -1,5 +1,5 @@
 import { SITE } from '@/lib/site';
-export const metadata = { title: 'Contact' };
+export const metadata = { title: 'Contact', alternates: { canonical: '/contact' } };
 export default function Contact() {
   return (
     <article className="prose-page">

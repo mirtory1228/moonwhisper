@@ -15,7 +15,7 @@ faq:
 
 Some numbers feel like a door opening, and 1001 is one of them. It shows up when something is beginning, or wants to. If you keep catching it — on clocks, receipts, addresses — the message is quietly insistent: a new chapter is available to you, and you're the one meant to walk through it. This isn't about waiting for the universe to hand you a life. It's about trusting the path that's already forming under your feet.
 
-I noticed 1001 during a winter when I was stuck between quitting something safe and starting something uncertain. It was 10:01 on my phone the morning I finally drafted the resignation email, 1001 on a parking meter that same afternoon, and the total on a coffee receipt a week later. I'm not the type to build my life around numbers, but the timing made me pay attention — and every instance landed on a day I was choosing to begin rather than stall.
+A common pattern is that people start noticing 1001 during a stretch when they're stuck between keeping something safe and starting something uncertain — say, in the weeks around drafting a resignation email or finally committing to a change. It shows up as 10:01 on a phone, 1001 on a parking meter, a total on a receipt. Most aren't the type to build a life around numbers, but the timing tends to catch attention precisely because each instance lands on a day they're leaning toward beginning rather than stalling.
 
 ## What 1001 means
 

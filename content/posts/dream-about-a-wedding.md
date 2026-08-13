@@ -36,7 +36,7 @@ Pay attention to how you felt walking down that aisle — or watching someone el
 
 Notice who was there, too. A wedding surrounded by loved ones can reflect a sense of support and belonging, while an empty or chaotic ceremony may mirror feeling alone in a big decision. The dream isn't handing you a date on the calendar; it's showing you how ready — or uncertain — you feel about joining yourself to something new.
 
-The one wedding dream I still think about had me at the altar with cold feet so intense I woke up relieved — and I wasn't even in a relationship at the time. It took me embarrassingly long to see it was about a job offer I was on the verge of accepting and quietly dreading. Ever since, I read the emotion in these dreams before anything else, because for me it's been a far more honest gauge of how ready I actually am than whatever I was saying out loud to people.
+Here's a scenario worth naming: a person stands at the altar with cold feet so intense they wake up relieved — while not even being in a relationship. It's a common pattern, and the meaning often has nothing to do with romance. Frequently the "wedding" stands in for another looming yes — a job offer, a move, a promise — that someone is on the verge of accepting and quietly dreading. That's why reading the emotion first tends to help: for many people the feeling in the dream is a more honest gauge of how ready they actually are than whatever they're saying out loud.
 
 ## What to Reflect On
 

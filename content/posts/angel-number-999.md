@@ -15,7 +15,7 @@ faq:
 
 Of all the repeating numbers, 999 is the one that feels like a door clicking shut behind you. Not slammed — just closed, quietly, with the sense that there's no walking back through it. If you've been feeling the end of something in your body before your mind will admit it, 999 tends to show up right about then.
 
-I went through a stretch where 999 was everywhere — a receipt total, a video paused at 9:99 left (I know, but that's how my brain logged it), a page number. At the time I was dragging out a friendship that had quietly ended years earlier; we were both just being polite. Seeing 999 didn't tell me anything I didn't know. It just kept holding up the thing I was avoiding: *this is already over — you're the only one still pretending it isn't.* When I finally let it be over, I wasn't sad the way I'd feared. I was relieved. That's the 999 feeling exactly.
+A common pattern people describe: 999 starts showing up everywhere — a receipt total, a timestamp, a page number — during a stretch when they're dragging out something that quietly ended a while ago. A friendship both people are only being polite about. A role they've outgrown. In those cases 999 rarely reveals anything new; it just keeps holding up the thing being avoided: *this is already over — you're the only one still pretending it isn't.* Here's a reflection worth naming — when people finally let the ending be an ending, the feeling that most often follows isn't the grief they braced for. It's relief. That's the 999 feeling exactly.
 
 ## What 999 means
 

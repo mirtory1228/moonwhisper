@@ -36,7 +36,7 @@ The feeling in a lost-phone dream is the tell. Pure panic usually reflects real 
 
 But notice if there's any relief mixed in. Sometimes losing the phone brings an unexpected calm, and that can be your mind hinting that you're overwhelmed by constant connection and quietly longing for space. Either way, the dream is pointing at how tethered — or how untethered — you want to feel.
 
-Honestly, my own lost-phone dreams sorted themselves into those two camps almost perfectly. The frantic-searching ones piled up during a period when I was terrified of missing a message from a family member who was unwell — I was tethered to that screen even in sleep. But there was also one where I realized the phone was gone and just felt lighter, and it came during a burnt-out stretch when I secretly wanted everyone to stop needing me for a while. Neither dream foretold a thing. They just showed me, plainly, whether I was craving connection or craving a break.
+A common pattern is that lost-phone dreams sort into those same two camps almost perfectly. The frantic-searching versions tend to cluster during periods of feeling terrified of missing an important message — a stretch where someone stays tethered to the screen even in sleep. But there's also the version where the phone is simply gone and the feeling is lighter, which often surfaces during a burnt-out stretch when a person secretly wants everyone to stop needing them for a while. Neither reading foretells a thing. Each just shows, plainly, whether the dreamer is craving connection or craving a break.
 
 ## What to Reflect On
 

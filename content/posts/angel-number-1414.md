@@ -13,9 +13,9 @@ faq:
     a: "For twin flames, 1414 points to building on a stable base — patient, honest effort that turns intense connection into something lasting rather than chaotic."
 ---
 
-1414 is a quietly reassuring number. It doesn't crackle with new-idea energy the way some do; it's steadier than that. When I see it, I read it as a nod — *the work you're doing is worth it, keep at it* — which is a message most of us need more than we admit.
+1414 is a quietly reassuring number. It doesn't crackle with new-idea energy the way some do; it's steadier than that. Many people read it as a nod — *the work you're doing is worth it, keep at it* — which is a message most of us need more than we admit.
 
-There was a long stretch where I was doing the unglamorous middle of a project, the part with no applause, and I kept wondering if I was wasting my time. 1414 showed up a lot in that window. It didn't hand me a result. What it did was interrupt the quiet giving-up that happens in the middle of hard things — the slow drift toward "maybe this isn't working." The number kept nudging: it is working, you just can't see the foundation from where you're standing.
+A common pattern is noticing 1414 during the unglamorous middle of a project, the part with no applause, when you keep wondering if you're wasting your time. The number doesn't hand you a result. What it can do is interrupt the quiet giving-up that happens in the middle of hard things — the slow drift toward "maybe this isn't working." The nudge it offers: it is working, you just can't see the foundation from where you're standing.
 
 ## What 1414 means
 

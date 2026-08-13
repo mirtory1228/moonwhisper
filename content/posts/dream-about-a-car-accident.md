@@ -13,7 +13,7 @@ faq:
     a: "Walking away from a crash often reflects resilience — a sense that even if a plan falls apart, you'll come through it and recover."
 ---
 
-I'll admit I used to brush car-crash dreams off as leftover stress from a bad commute. What changed my read was noticing they always landed during the weeks I was white-knuckling some decision I didn't fully trust — a job I'd said yes to too fast, a plan moving quicker than I could think it through. The dream never told me the plan was doomed. It just made me admit I'd stopped feeling like I had both hands on the wheel. That's the lens I'd offer here.
+It's easy to brush car-crash dreams off as leftover stress from a bad commute. But a more useful read emerges once you notice when they tend to land: often during the weeks you're white-knuckling some decision you don't fully trust — a job you said yes to too fast, a plan moving quicker than you can think it through. The dream isn't telling you the plan is doomed. More often it's naming a feeling you'd rather not admit — that you've stopped feeling like you have both hands on the wheel. That's the lens worth bringing here.
 
 ## What It Means to Dream About a Car Accident
 

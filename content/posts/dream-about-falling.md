@@ -39,7 +39,7 @@ The moment of the fall carries the meaning. Was it pure terror, a strange thrill
 
 ## What this dream tends to really be about
 
-For me, falling dreams have never been about heights. They show up when I've taken on something I'm not sure I can hold — a new role I talked my way into, a commitment I made before I was ready. The plunge is just my nervous system being honest about the gap between where I've climbed and how steady I actually feel up there. What I've slowly learned is that the version where I brace and land in one piece usually arrives once I've admitted the fear out loud to someone. Naming the wobble seems to be what lets me stop falling in my sleep.
+A common pattern is that falling dreams have little to do with heights. They tend to show up when someone has taken on more than they're sure they can hold — a new role stepped into quickly, a commitment made before feeling ready. The plunge often reads as the nervous system being honest about the gap between where a person has climbed and how steady they actually feel up there. Many people notice that the version where they brace and land in one piece tends to arrive once the fear has been named out loud to someone. Naming the wobble seems to be what quiets the falling.
 
 ## Biblical and Cultural Notes
 

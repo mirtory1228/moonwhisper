@@ -15,7 +15,7 @@ faq:
 
 There are few dream images as loud as a wall of water rising over the horizon. A tsunami dream tends to stay with you into the morning, and that's usually because it's carrying something you've been feeling for a while. Big water in dreams often maps onto big emotion, the kind that has been building quietly until it finally takes a shape you can't ignore.
 
-I had a stretch a few years back, right after I took on a role I wasn't sure I could handle, where I kept dreaming of standing on a beach watching the sea pull far, far out. I remember the strange quiet before the water came back, and how in the dream I couldn't get my legs to move. I'd wake up with my heart going. Looking back, nothing was actually "coming for me." I was just carrying more than I'd admitted, and my sleeping brain drew it as the biggest thing it could think of.
+A common pattern shows up around big transitions, especially right after taking on a role or responsibility that feels bigger than you're sure you can handle. Many people describe standing on a beach watching the sea pull far, far out, then a strange quiet before the water returns, and legs that won't move in the dream. You wake with your heart going. Often nothing is actually "coming for you." It's the mind drawing more pressure than you've admitted to yourself as the biggest thing it can picture.
 
 ## What tsunami dreams usually mean
 

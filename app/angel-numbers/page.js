@@ -4,6 +4,7 @@ import AngelLookup from '@/components/AngelLookup';
 import { getAllPosts } from '@/lib/posts';
 
 export const metadata = {
+  alternates: { canonical: '/angel-numbers' },
   title: 'Angel Numbers — Meanings & Lookup',
   description: 'Keep seeing the same number? Look up any angel number and find its meaning for love, money, and life.',
 };

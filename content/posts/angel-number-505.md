@@ -43,9 +43,9 @@ If a financial change is happening whether you like it or not, 505 asks you to s
 
 For twin flames, 505 marks a turning point. Old patterns between you are breaking down so a healthier dynamic can form. If you've been stuck in cycles, expect movement — sometimes a separation that ultimately serves growth, sometimes a reunion that only becomes possible once you've both changed. Either way, freedom is the theme. You reconnect as freer people or not at all.
 
-## A personal take
+## An honest framing
 
-I'll admit 505 is the number I find genuinely uncomfortable, and I've come to think that's the point. The times it kept catching my eye were times I'd outgrown something and was pretending I hadn't — a commitment, a routine, a version of myself with an expiration date I kept ignoring. The number never made the change for me. It just got harder to keep lying to myself about the fact that a door had already opened.
+Here's a framing worth naming: 505 is a number many people find genuinely uncomfortable, and that discomfort may be the point. A common pattern is that it seems to catch your eye during exactly the stretches when you've outgrown something and are pretending you haven't — a commitment, a routine, a version of yourself with an expiration date that's easy to ignore. The number doesn't make the change for you. It just makes it harder to keep pretending a door hasn't already opened.
 
 ## What to do next
 

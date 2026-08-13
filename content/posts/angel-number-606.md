@@ -39,7 +39,7 @@ Here's where 606 does its most helpful work. It doesn't promise a windfall — i
 
 Practically, this can look like loosening the anxious grip: making a calm plan instead of spiraling, or choosing a job that supports your home life rather than swallowing it.
 
-I'll own my bias here: money worry is the exact place I lose my balance first, so 606 is a number I need more than I'd like to admit. The evenings it caught my eye were almost always ones I'd spent doing anxious mental math instead of being present with the people right in front of me. Noticing it never fixed my finances — it just occasionally pulled me out of the spiral long enough to remember the spiral wasn't helping anyone, least of all my home life.
+One honest framing: money worry is the exact place many people lose their balance first, which is why 606 tends to land hardest around finances. A common pattern is that it catches your eye on the very evenings spent doing anxious mental math instead of being present with the people right in front of you. Noticing it doesn't fix anyone's finances — but it can pull you out of the spiral long enough to remember the spiral isn't helping anyone, least of all your home life. Worth asking yourself: when 606 shows up, what were you actually worrying about a minute before?
 
 ## Twin flame connection
 

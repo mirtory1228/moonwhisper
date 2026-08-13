@@ -15,7 +15,7 @@ faq:
 
 A flood dream has a different texture than a crashing wave. There's no single dramatic moment; instead the water just keeps rising, quietly, until it's at your ankles, then your knees, then everywhere. That slow creep is often exactly what makes these dreams feel so unsettling, and it's usually a clue to what they're really about.
 
-I remember a period when I was juggling a house move, a sick parent, and a deadline that kept getting pushed. Nothing was a crisis on its own. But I started dreaming, more than once, of water slowly filling my kitchen while I calmly moved things to higher shelves as if that were normal. I wasn't panicking in the dream, and that detail told me a lot. I'd gotten so used to rising pressure that even my dreaming self had stopped treating it as an emergency. That was the wake-up call, oddly, not the water itself.
+Here's a scenario worth naming, because many people describe some version of it. Imagine a stretch when several ordinary pressures overlap — a move, a family worry, a deadline that keeps slipping — none a crisis on its own. A common flood dream in that season is water slowly filling a kitchen while the dreamer calmly moves things to higher shelves as if that were normal. The telling detail is the absence of panic. When even the dreaming mind stops treating rising water as an emergency, it often mirrors how thoroughly waking life has normalized steady pressure. That calm, oddly, is usually the real signal — not the water itself.
 
 ## What flood dreams usually mean
 
@@ -33,7 +33,7 @@ They can also speak to boundaries. When floodwater enters a home, a room, or a c
 
 ## Why the feeling matters
 
-Pay attention to whether the flood in your dream felt frightening or strangely routine. Panic points to stress you're actively aware of. But a calm, matter-of-fact response, like my shelf-stacking, can quietly reveal that you've normalized more pressure than is healthy. The emotion is the diagnostic, not the water level.
+Pay attention to whether the flood in your dream felt frightening or strangely routine. Panic points to stress you're actively aware of. But a calm, matter-of-fact response, like the shelf-stacking above, can quietly reveal that you've normalized more pressure than is healthy. The emotion is the diagnostic, not the water level.
 
 ## What to take from it
 

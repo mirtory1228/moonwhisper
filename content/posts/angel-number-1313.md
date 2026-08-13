@@ -15,7 +15,7 @@ faq:
 
 1313 has an upward feel to it — light, forward-leaning, a little bit like momentum you can't quite explain. Where some numbers are about endings or grounding, 1313 is about growth that's already happening. It usually shows up not to warn you but to tell you: keep going.
 
-I noticed 1313 during a period when I'd started sharing work I used to keep private — and it terrified me. Every time I hovered over "post," some version of that number seemed to be nearby, on a timestamp or a total. I don't think it made me braver by magic. But it reframed the fear: this discomfort was growth, not danger. The stuff I was scared to put out was exactly the stuff worth putting out. 1313 became a small, recurring permission slip.
+A common pattern is that people notice 1313 during a stretch when they've started sharing work they used to keep private — and it feels terrifying. Every time you hover over "post," some version of that number seems to be nearby, on a timestamp or a total. It doesn't make anyone braver by magic. But it can reframe the fear: this discomfort is growth, not danger. The stuff you're scared to put out is often exactly the stuff worth putting out. For many, 1313 works like a small, recurring permission slip.
 
 ## What 1313 means
 

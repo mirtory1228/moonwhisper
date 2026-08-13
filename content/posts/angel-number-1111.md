@@ -15,7 +15,7 @@ faq:
 
 Of all the angel numbers, 1111 might be the most famous, and for good reason. It's the one people set alarms for and pause to wish on. If 1111 keeps showing up for you, something exciting is stirring. This is the number of manifestation, awakening, and powerful alignment.
 
-A quick note before the meanings, because I'm a little wary of how much hype this particular number gets. In my own experience, treating 1111 like a magic wish button did nothing — the times it genuinely mattered were when it caught me mid-thought and made me notice what I'd been quietly obsessing over, hopeful or anxious. That's the real value I'd point you to: not that 1111 grants wishes, but that it freezes the frame long enough for you to see where your attention is already pointed.
+A quick note before the meanings, because it's worth being a little wary of how much hype this particular number gets. A common pattern people describe is that treating 1111 like a magic wish button does nothing — the times it seems to genuinely matter are when it catches you mid-thought and makes you notice what you've been quietly obsessing over, hopeful or anxious. That's the real value worth pointing to: not that 1111 grants wishes, but that it freezes the frame long enough for you to see where your attention is already pointed.
 
 ## What 1111 Really Means
 

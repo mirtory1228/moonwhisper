@@ -15,7 +15,7 @@ faq:
 
 1717 is one of the more encouraging numbers to keep seeing. It doesn't carry a warning or a heavy lesson — it reads more like confirmation. When it shows up, the message is usually simple: the path you're on is the right one, so trust it.
 
-I ran into 1717 repeatedly during a time I'd made a genuinely scary choice — leaving something stable for something uncertain but truer. I kept second-guessing it, the way you do at 2am. That number kept appearing at exactly those wobbly moments, and while I won't pretend it fixed my nerves, it did something useful: it interrupted the spiral. It reminded me that I'd made the choice from intuition, not impulse, and that the discomfort was the price of alignment, not evidence of a mistake.
+Here's a scenario worth naming: many people run into 1717 during a stretch when they've made a genuinely scary choice — leaving something stable for something uncertain but truer. It's common to second-guess a decision like that, the way anyone does at 2am. When a number keeps appearing at exactly those wobbly moments, it won't fix your nerves, but it can do something useful: interrupt the spiral. It becomes a cue to remember the choice was made from intuition, not impulse, and that the discomfort is the price of alignment, not evidence of a mistake.
 
 ## What 1717 means
 

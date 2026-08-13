@@ -27,7 +27,7 @@ When 616 keeps appearing, something in your home or close relationships is askin
 
 It also shows up when your life has become lopsided. If you've been pouring everything into work while your personal life quietly frays, 616 is the nudge to rebalance before something breaks.
 
-Speaking from my own pattern, 616 tends to catch my eye in precisely the seasons I've let work quietly colonize everything else. It's rarely a crisis — it's the slow kind of lopsided where I look up and realize I haven't cooked a real meal or called someone I love in weeks. I don't think the number rebalanced anything for me, but it did work like a mirror I couldn't quite ignore, and sometimes that's enough to make one better choice that evening.
+A common pattern people describe: 616 tends to catch the eye in precisely the seasons when work has quietly colonized everything else. It's rarely a crisis — it's the slow kind of lopsided where you look up and realize you haven't cooked a real meal or called someone you love in weeks. The number doesn't rebalance anything on its own, but it can work like a mirror that's hard to ignore, and sometimes that's enough to prompt one better choice that evening. Worth asking yourself: what's the one small thing that's been slipping?
 
 ## Love and Relationships
 

@@ -2,6 +2,7 @@ import { getAllPosts } from '@/lib/posts';
 import DreamSearch from '@/components/DreamSearch';
 
 export const metadata = {
+  alternates: { canonical: '/dream-dictionary' },
   title: 'Dream Dictionary — Look Up What Your Dream Means',
   description: 'Type what you dreamed about and get a clear, grounded meaning. A free searchable dream dictionary — snakes, teeth falling out, being chased, flying and more.',
   keywords: ['dream dictionary', 'dream meaning', 'what does my dream mean', 'dream interpretation', 'dream symbols'],

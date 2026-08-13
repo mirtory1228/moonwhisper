@@ -27,7 +27,7 @@ When 232 keeps appearing, you're usually in a waiting phase, and waiting well is
 
 It also shows up when peace is at stake. If you've been on the edge of conflict, 232 nudges you to choose diplomacy, meet people halfway, and protect the harmony you've built.
 
-The "choose peace" part is where I catch myself, honestly. My reflex in a brewing disagreement used to be to win it — to line up the perfect argument and be unmistakably right. What I've learned the slow way is that being right and keeping the relationship intact are frequently two different goals, and for years I optimized for the wrong one. So when 232 turns up for me now, I read it as a quiet check on whether I'm about to trade a bond for the satisfaction of scoring a point.
+The "choose peace" part is where many people quietly catch themselves. A common reflex in a brewing disagreement is to want to win it — to line up the perfect argument and be unmistakably right. Yet being right and keeping the relationship intact are frequently two different goals, and it's easy to optimize for the wrong one for a long time. Read this way, 232 works as a quiet check: before the next hard conversation, it's worth asking whether you're about to trade a bond for the satisfaction of scoring a point.
 
 ## Love and Relationships
 

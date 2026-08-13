@@ -15,7 +15,7 @@ faq:
 
 Fish are quiet dream visitors compared to floods or storms, but they can be just as telling. Because they live under the surface, in that part of the water we can't easily see into, fish often stand in for the things moving beneath our own awareness. A fish dream tends to be less about drama and more about something quietly surfacing that's ready to be noticed.
 
-I remember a phase when I kept dreaming of a single fish in clear, shallow water, always just out of reach of my hands. Around that time I had a nagging sense that I wanted to change direction in my work, but I couldn't articulate it. The fish was slippery and I kept missing it, which, in hindsight, was almost embarrassingly on the nose. When I finally sat down and wrote out what I actually wanted, the dreams stopped. I'd caught the thing, so to speak.
+Here's a scenario worth naming, because it's a common one: a single fish in clear, shallow water, always just out of reach of your hands. People often report this kind of dream during a stretch when they have a nagging sense of wanting to change direction — in work, a relationship, a habit — but can't yet put it into words. The fish stays slippery and keeps getting missed, which is almost on the nose once you notice the parallel. A useful reflection question is: what have you been reaching for but not quite able to hold? Often the act of writing that thing down, giving the vague pull a plain sentence, is what finally lets you "catch" it.
 
 ## What fish dreams usually mean
 

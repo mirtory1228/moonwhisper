@@ -39,7 +39,7 @@ A few themes come up again and again:
 
 Pay attention to how you felt, not just what happened. Was it sheer panic? Quiet embarrassment? Or a strange sense of relief? The emotion is the real message. Panic points to a place where you feel exposed and want to hide. Calm points to a part of you that's ready to be seen. The same image — nakedness — can mean opposite things depending on the feeling attached to it.
 
-My own version always takes place somewhere I'm supposed to have it together — a room full of people I want to impress — and it turns up right before I put something of mine out into the world. I've come to read it as nerves about being seen, not about my body at all. The tell, for me, is the specific flavor of panic: it's the fear of being found out, and it tends to fade the moment I remember no one is actually studying me as hard as the dream insists they are.
+A common pattern is that this dream shows up somewhere you're supposed to have it together — a room full of people you want to impress — and it surfaces right before you put something of yours out into the world. Read that way, it tends to be about nerves at being seen, not about the body at all. The tell is the specific flavor of panic: it's the fear of being found out, and it often eases the moment you remember that no one is actually studying you as hard as the dream insists they are.
 
 ## What to Reflect On
 
