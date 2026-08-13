@@ -3,7 +3,7 @@
 //   node scripts/indexnow.mjs                      # sitemap 전체 제출
 //   node scripts/indexnow.mjs https://.../a https://.../b   # 특정 URL만
 const KEY = 'd0cead6924c99225ff00a4b271097b88';
-const HOST = 'moonwhisper-hipower159-6132s-projects.vercel.app';
+const HOST = 'www.moonwhispersigns.com';
 const SITEMAP = `https://${HOST}/sitemap.xml`;
 
 async function main() {
