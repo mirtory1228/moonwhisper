@@ -47,7 +47,18 @@ export default function RootLayout({ children }) {
 
         <header className="site-header">
           <Link href="/" className="brand">
-            <span className="brand-mark">🌙</span>
+            <svg
+              className="brand-mark"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden="true"
+            >
+              <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z" />
+            </svg>
             <span className="brand-text">
               <strong>{SITE.name}</strong>
               <em>{SITE.tagline}</em>

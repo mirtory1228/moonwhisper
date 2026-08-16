@@ -125,7 +125,18 @@ export default function PostPage({ params }) {
       <AdSlot label="본문 하단 광고" />
 
       <aside className="author-box">
-        <span className="author-avatar" aria-hidden="true">🌙</span>
+        <svg
+          className="author-avatar"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          aria-hidden="true"
+        >
+          <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z" />
+        </svg>
         <div>
           <p className="author-name">Mira · Editor at {SITE.name}</p>
           <p className="author-bio">
